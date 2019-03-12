@@ -36,12 +36,11 @@ Artigo 3º
 
 O **LHC** tem como princípios:
 
-1.  o uso de aproximações adequadas para o número pi;
-2.  o acesso livre e universal ao conhecimento gerado sob suas
+1.  o acesso livre e universal ao conhecimento gerado sob suas
     premissas;
-3.  o financiamento de suas atividades majoritariamente por seus
+2.  o financiamento de suas atividades majoritariamente por seus
     próprios Associados; e
-4.  a garantia da livre iniciativa de seus Associados na proposição e
+3.  a garantia da livre iniciativa de seus Associados na proposição e
     execução de projetos individuais ou coletivos.
 
 Artigo 4º
@@ -123,8 +122,7 @@ filiar-se somente pessoas físicas maiores de 18 (dezoito) anos,
 distintos em três categorias:
 
 1.  Associado Fundador: aquele que tenha participado da Assembleia de
-    Fundação do **LHC** ou que tenha se associado a ele até 30 (trinta)
-    dias após a sua fundação, tendo realizado o aporte patrimonial
+    Fundação do **LHC**, tendo realizado o aporte patrimonial
     determinado nesta Assembleia.
 2.  Associado Titular: pessoa física que tenha sua proposta de
     associação aprovada por instância competente;
@@ -148,8 +146,8 @@ São DIREITOS dos Associados:
 
 1.  gozar dos benefícios oferecidos pelo **LHC** na forma prevista
     neste Estatuto Social e no [Regimento Interno](Regimento Interno);
-2.  recorrer à Assembleia Geral contra qualquer ato da Diretoria
-    Executiva, do Conselho Manda-chuva ou do Conselho Fiscal; e
+2.  recorrer à Assembleia Geral contra qualquer ato da Presidência, 
+    da Diretoria Executiva, da Diretoria Fiscal, do Conselho; e
 3.  estar presente e tomar a voz em reunião de qualquer órgão
     deliberativo ou administrativo do **LHC**.
 
@@ -161,8 +159,9 @@ São DEVERES dos Associados:
 1.  cumprir e fazer cumprir o presente Estatuto Social, o
     [Código de Conduta](Código de Conduta) e o
     [Regimento Interno](Regimento Interno);
-2.  respeitar e cumprir as decisões da Assembleia Geral, do Conselho
-    Manda-Chuva e da Diretoria Executiva;
+2.  respeitar e cumprir as decisões da Assembleia Geral,
+    da Presidência, do Conselho e das Diretorias Fiscal e 
+    Executiva;
 3.  zelar pelo bom nome do **LHC**;
 4.  defender o patrimônio e os interesses do **LHC**;
 
@@ -172,15 +171,15 @@ Artigo 10
 São DIREITOS exclusivos dos Associados Efetivos:
 
 1.  votarem e serem votados em Assembleia Geral;
-2.  candidatarem-se para os cargos da Diretoria Executiva e Conselho
-    Fiscal;
-3.  requerer mandato no Conselho Manda-chuva, conforme disposto no
+2.  candidatarem-se para os cargos da Presidência, da Diretoria Executiva,
+    da Diretoria Fiscal e de Conselheiro Chefe;
+3.  requerer mandato no Conselho, conforme disposto no
     artigo 23; e
 4.  livre acesso a todos os arquivos, documentos e instalações do **LHC**. 
 
 -   Parágrafo único - O Associado Efetivo que pertença à categoria de
-    Titular somente poderá candidatar-se e ocupar cargo na Diretoria
-    Executiva após 12 (doze) meses transcorridos de sua admissão ao
+    Titular somente poderá candidatar-se e ocupar cargo nas Diretorias
+    após 12 (doze) meses transcorridos de sua admissão ao
     quadro social.
 
 Artigo 11
@@ -203,7 +202,7 @@ Artigo 12
 A admissão dos Associados dar-se-á de forma independente de classe
 social, nacionalidade, sexo, raça, cor e crença religiosa - ou a falta
 destas - e, para seu ingresso, o interessado deverá submeter sua
-proposta de admissão para apreciação do Conselho Manda-chuva, de acordo
+proposta de admissão para apreciação do Conselho, de acordo
 com os critérios definidos no [Regimento Interno](Regimento Interno).
 
 -   Parágrafo 1º - O título de Associado é pessoal e intransmissível.
@@ -215,7 +214,7 @@ Artigo 13
 ---------
 
 É direito do Associado demitir-se quando julgar necessário,
-protocolando, junto ao Conselho Manda-chuva, seu pedido de demissão.
+protocolando, junto ao Conselho, seu pedido de demissão.
 
 Artigo 14
 ---------
@@ -227,13 +226,13 @@ ou justa causa, sendo esta última cabível nas seguintes hipóteses:
     Regimento Interno;
 2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**; 
 3.  difamação do **LHC** ou de seus Associados;
-4.  prática de ato que contrarie decisões de Assembleias, Diretoria e
-    Conselhos;
-5.  não pagamento de três parcelas consecutivas das contribuições
+4.  prática de ato que contrarie decisões de Assembleias, Presidência, 
+    Diretorias e Conselhos;
+5.  não pagamento de 02 (duas) parcelas consecutivas das contribuições
     associativas.
 
 -   Parágrafo único - A perda da qualidade de Associado por justa causa
-    será determinada pelo Conselho Manda-chuva, cabendo recurso da
+    será determinada pelo Conselho, cabendo recurso da
     decisão à Assembleia Geral, unicamente convocada para este fim,
     sendo garantida a ampla defesa em todas as instâncias.
 
@@ -254,7 +253,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, o Conselho Manda-chuva, o Conselho Fiscal e a Diretoria
+    entre si, A Presidência, o Conselho, a diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17
@@ -262,12 +261,12 @@ Artigo 17
 
 Compete privativamente à Assembleia Geral:
 
-1.  eleger a Diretoria Executiva e o Conselho Fiscal;
+1.  eleger a Presidência, a Diretoria Executiva e a Diretoria Fiscal;
 2.  deliberar sobre a compra ou alienação de bens imóveis;
 3.  deliberar sobre a celebração de convênios, aquisições ou contratos
-    com valor superior a 20 salários mínimos;
-4.  destituir a Diretoria Executiva e o Conselho Fiscal, inteiramente ou
-    seus membros, e o Presidente do Conselho Manda-chuva;
+    com valor superior a 25 salários mínimos;
+4.  destituir a Presidência, a Diretoria Executiva e a Diretoria Fiscal, 
+        inteiramente ou seus membros, assim como o Chefe do Conselho;
 5.  alterar o Estatuto Social;
 6.  deliberar quanto à dissolução da Associação; e
 7.  decidir em última instância.
@@ -294,7 +293,7 @@ convocada para esse fim, não podendo ela deliberar, em primeira
 convocação, sem a maioria absoluta dos Associados Efetivos, ou com menos
 de 1/3 (um terço) deles nas convocações seguintes.
 
--   Parágrafo único - além do especificado no \'\'caput\'\' deste
+-   Parágrafo único - além do especificado no *caput* deste
     artigo, para deliberar sobre a reforma do Estatuto Social ou a
     dissolução da Associação (incisos 5 e 6, respectivamente), é
     necessária a presença de todos os Associados Fundadores constantes
@@ -313,17 +312,17 @@ forma especificada no [Regimento Interno](Regimento Interno).
 Artigo 21
 ---------
 
-A Assembleia Geral reunir-se-á ordinariamente uma vez ao ano, até o dia
-31 de março, e extraordinariamente, quando convocada pelo Presidente da
-Diretoria Executiva, pelo Conselho Manda-chuva, pelo Conselho Fiscal, ou
+A Assembleia Geral reunir-se-á ordinariamente uma vez a cada 04 (quatro) anos, 
+até o dia 31 de março, e extraordinariamente, quando convocada pelo Presidente ou 
+Diretoria Executiva, pelo Chefe do Conselho, pela Diretoria Fiscal, ou
 ainda ao menos 1/5 (um quinto) dos Associados Efetivos, que subscreverão
 e especificarão os motivos da convocação.
 
 -   Parágrafo 1º - A Assembleia Geral Ordinária ocorrerá anualmente e
-    deverá deliberar, quando cabível, sobre a eleição da Diretoria
-    Executiva e do Conselho Fiscal, além de aprovar a prestação de
-    contas do exercício social findo e a previsão orçamentária do
-    exercício entrante.
+    deverá deliberar, quando cabível, sobre a eleição do Presidente, 
+    Diretorias Executiva e Fiscal, e o Chefe do Conselho, além de 
+    aprovar a prestação de contas do exercício social findo e a 
+    previsão orçamentária do exercício entrante.
 -   Parágrafo 2º - A Assembleia Geral será convocada mediante edital
     afixado na sede do **LHC**, além de meios eletrônicos, conforme
     detalhado no Regimento Interno, contendo data, horário, local e a
@@ -338,57 +337,51 @@ e especificarão os motivos da convocação.
     ata dos trabalhos seja assinada somente pelos integrantes da mesa,
     desde que assinada a lista de presença pelos Associados presentes.
 
-Capítulo IV - DO CONSELHO MANDA-CHUVA
-=====================================
+Capítulo IV - DO CONSELHO 
+==========================
 
 Artigo 22
 ---------
 
-O Conselho Manda-chuva é o órgão deliberativo responsável pela política
+O Conselho é o órgão deliberativo responsável pela política
 a ser observada pelo **LHC**, tanto na consecução de seus objetivos
 sociais como no planejamento financeiro e no desenvolvimento das
 relações do **LHC** com o corpo social, com a sociedade civil e com
 pessoas físicas ou jurídicas com as quais mantenha ou venha a manter
-vínculos de qualquer natureza e será composto por no mínimo 7 (sete) e
+vínculos de qualquer natureza e será composto por no mínimo 03 (três) e
 no máximo 42 (quarenta e dois) Associados Efetivos.
 
--   Parágrafo 1º - Os membros do Conselho Manda-chuva serão designados
-    por \"Manda-chuvas\".
+-   Parágrafo 1º - Os membros do Conselho serão designados
+    por **Membros do Conselho**.
 
-<!-- -->
-
--   Parágrafo 2º - O Conselho Manda-Chuva será presidido pelo Chanceler
-    Supremo do **LHC**.
+-   Parágrafo 2º - O Conselho será presidido pelo Chefe do Conselho,
+    que por sua vez será eleito em Assembléia apropriada.
 
 Artigo 23
 ---------
 
-Poderá ocupar o cargo de Manda-chuva qualquer Associado Efetivo,
-mediante requisição por escrito ao Chanceler Supremo, que deverá ser
+Poderá ocupar o cargo de **Membro do Conselho** qualquer Associado Efetivo,
+mediante requisição por escrito ao Chefe do Conselho, que deverá ser
 automaticamente aceita e registrada.
 
 -   Parágrafo 1º - Terá seu mandato automaticamente revogado o
-    Manda-chuva que ausentar-se de 03 (três) ou mais reuniões sem
+    Membro do Conselho que ausentar-se de 03 (três) ou mais reuniões sem
     justificativa aceita pelo plenário. As ausências não justificadas
     serão abonadas anualmente, na data de realização da Assembleia Geral
     Ordinária.
 
-<!-- -->
-
--   Parágrafo 2º - Para efeitos de computação de \'\'quorum\'\', não
-    serão considerados os Manda-chuvas com mandato revogado ou com
+-   Parágrafo 2º - Para efeitos de computação de *quorum*, não
+    serão considerados os Membros do Conselho com mandato revogado ou com
     justificativa de ausência aceita pelo plenário.
 
-<!-- -->
-
--   Parágrafo 3º - O Manda-chuva cujo mandato seja revogado por não
+-   Parágrafo 3º - O Membro do Conselho cujo mandato seja revogado por não
     comparecimento poderá requerer o reingresso ao plenário passadas ao
     menos 03 (três) reuniões ordinárias da data de revogação.
 
 Artigo 24
 ---------
 
-Compete ao Conselho Manda-chuva:
+Compete ao Conselho:
 
 1.  estabelecer as diretrizes básicas e planos de ação do **LHC**;
 2.  zelar pela observância do Estatuto e cumprir as decisões da
@@ -398,98 +391,87 @@ Compete ao Conselho Manda-chuva:
 4.  elaborar e aprovar o orçamento do exercício social entrante, e
     apresentá-lo à Assembleia Geral;
 5.  aprovar e apresentar à Assembleia Geral o relatório e a prestação de
-    contas do exercício findo, com parecer do Conselho Fiscal;
+    contas do exercício findo, com parecer das Diretorias Executiva e Fiscal,
+    e a anuência da Presidência;
 6.  decidir sobre a participação institucional do **LHC** em eventos
     externos;
-7.  indicar e destituir, a qualquer momento, o Chanceler Supremo do
-    **LHC**;
-8.  manifestar-se, através do Chanceler Supremo, por qualquer meio de
+7.  manifestar-se, através do Chefe do Conselho, por qualquer meio de
     comunicação, em nome do **LHC**, sobre assunto de interesse
     público;
-9.  proceder à indicação de membro interino do Conselho Fiscal ou da
+8.  proceder à indicação de membro interino da Diretoria Fiscal ou da
     Diretoria Executiva, quando houver vacância em algum destes cargos;
-10. decidir sobre a admissão e exclusão de Associados, conforme o
+9.  decidir sobre a admissão e exclusão de Associados, conforme o
     disposto neste Estatuto e no Regimento Interno;
-11. decidir sobre o valor das contribuições associativas;
-12. conceder, mediante a devida fundamentação, isenção de contribuição
+10. decidir junto com a Diretoria Fiscal sobre o valor das contribuições 
+    associativas;
+11. conceder, mediante a devida fundamentação, isenção de contribuição
     associativa para Associado Efetivo em situação de extrema
     necessidade;
-13. conceder o título de Associado Honorário;
-14. decidir sobre a celebração de compras, contratos e convênios de
-    qualquer espécie e aluguel de imóveis com valor inferior a 20
-    salários mínimos;
-15. decidir sobre o recebimento de doações de pessoas físicas ou
+12. conceder o título de Associado Honorário;
+13. decidir sobre a celebração de compras, contratos e convênios de
+    qualquer espécie com valor inferior a 25 (vinte e cinco) salários mínimos;
+14. decidir sobre o recebimento de doações de pessoas físicas ou
     jurídicas externas ao quadro social;
-16. encaminhar proposta de reforma do Estatuto à Assembleia Geral;
-17. convocar a Assembleia Geral; e
-18. decidir sobre casos omissos deste Estatuto Social.
+15. encaminhar proposta de reforma do Estatuto à Assembleia Geral;
+16. convocar a Assembleia Geral; e
+17. decidir sobre casos omissos deste Estatuto Social.
 
 Artigo 25
 ---------
 
-O Conselho Manda-chuva reunir-se-á ordinariamente, com periodicidade
+O Conselho reunir-se-á ordinariamente, com periodicidade
 estabelecida no Regimento Interno, ou extraordinariamente, por
-solicitação do Chanceler Supremo, da Diretoria Executiva ou por
+solicitação do Chefe do Conselho, da Diretoria Executiva ou por
 requerimento subscrito por, no mínimo, um quinto (1/5) dos Associados
 Efetivos.
 
 -   Parágrafo 1º - Para sua instalação, a reunião do Conselho
-    Manda-chuva deverá contar com a presença mínima de 05 (cinco)
-    Manda-chuvas, ou 1/5 (um quinto) dos Manda-chuvas, o que for maior.
+    deverá contar com a presença mínima de 07 (sete)
+    conselheiros ou 1/5 (um quinto) deles, o que for maior.
 
 <!-- -->
 
--   Parágrafo 2º - As reuniões ordinárias do conselho deverão ocorrer,
-    no mínimo, uma vez a cada dois meses e não mais que uma vez por
+-   Parágrafo 2º - As reuniões ordinárias do Conselho deverão ocorrer,
+    no mínimo, uma vez a cada 03 (três) meses e não mais que uma vez por
     semana.
 
 <!-- -->
 
--   Parágrafo 3º - As reuniões extraordinárias do conselho deverão ser
-    convocadas com no mínimo 02 (dois) dias úteis de antecedência, na
+-   Parágrafo 3º - As reuniões extraordinárias do Conselho deverão ser
+    convocadas com no mínimo 05 (cinco) dias úteis de antecedência, na
     forma estabelecida pelo Regimento Interno.
 
 Artigo 26
 ---------
 
-O Chanceler Supremo será eleito por maioria simples dos votos dos
-Manda-chuvas, com mandato de 01 (um) ano, sendo sempre permitida a
-recondução.
+Compete ao Chefe do Conselho:
 
--   Parágrafo único - O Chanceler Supremo não poderá ocupar cargo na
-    Diretoria Executiva.
+1.  presidir as reuniões do Conselho;
+2.  indicar um conselheiro que o substitua em sua ausência;
+3.  receber e registrar requisições de ingresso no Conselho;
+4.  realizar o controle de presença dos membros do Conselho;
+5.  representar o Conselho perante outras instâncias deliberativas e
+    administrativas do **LHC**;
+6.  cumprir e fazer cumprir as decisões da Assembléia Geral, desse Estatuto,
+    do Regimento interno e o Código de Conduta.
+
+Parágrafo único - na ausência do Chefe do Conselho e de seu substituto,
+o Conselho do **LHC** deve ser presidido interinamente por um
+um membro do conselho eleito pela maioria simples dos votos dos presentes, 
+desde que este não ocupe cargo eletivo no **LHC**.
 
 Artigo 27
 ---------
 
-Compete ao Chanceler Supremo:
-
-1.  presidir as reuniões do Conselho Manda-chuva;
-2.  indicar um Manda-chuva que o substitua em sua ausência;
-3.  receber e registrar requisições de ingresso no Conselho Manda-chuva;
-4.  realizar o controle de presença dos membros do Conselho Manda-chuva;
-5.  representar o Conselho perante outras instâncias deliberativas e
-    administrativas do **LHC**;
-6.  servir de porta-voz preferencial do **LHC** perante a imprensa e a
-    comunidade externa; e
-7.  cumprir e fazer cumprir as decisões do Conselho Manda-chuva.
-
-Parágrafo único - na ausência do Chanceler Supremo e de seu substituto,
-o Conselho Manda-chuva deve ser presidido interinamente por um
-Manda-chuva eleito pela maioria simples dos votos dos presentes, desde
-que este não ocupe cargo na Diretoria Executiva.
-
-Artigo 28
----------
-
-As decisões do Conselho Manda-chuva serão tomadas por maioria simples,
+As decisões do Conselho serão tomadas por maioria simples,
 cabendo apenas um voto a cada membro presente.
 
 -   Parágrafo único - Em caso de empate na votação, a matéria deverá ser
     postergada até a próxima reunião ordinária. Persistindo o empate, o
-    Chanceler Supremo terá direito ao Voto de Minerva.
+    Chefe do Conselho terá direito ao Voto de Minerva.
 
-Capítulo V - DO CONSELHO FISCAL
+
+Capítulo V - DA DIRETORIA FISCAL
 ===============================
 
 Artigo 29
