@@ -16,4 +16,5 @@ Estão documentados aqui:
 Para contribuir, abra um PR enviando suas 
 modificações.
 
-**OBS**: estou revisando, parei no caítulo 5
+**OBS**: estou revisando, vou juntar presidencia com
+diretoria de software. Parei no capitulo IX

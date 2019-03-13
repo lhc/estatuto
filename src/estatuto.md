@@ -474,234 +474,145 @@ cabendo apenas um voto a cada membro presente.
 Capítulo V - DA DIRETORIA FISCAL
 ===============================
 
-Artigo 29
+Artigo 28
 ---------
 
-O Conselho Fiscal, órgão fiscalizador das finanças do **LHC**, será
-composto por três membros eleitos pela Assembleia Geral e terá as
+A Diretoria Fiscal, órgão fiscalizador das finanças do **LHC**, será
+composto por 02 (dois) membros eleitos pela Assembleia Geral e terá as
 seguintes atribuições:
 
 1.  examinar os livros de escrituração do **LHC**;
 2.  opinar e dar pareceres sobre planejamentos, balanços e relatórios
     financeiro e contábil apresentados pela Diretoria Executiva,
-    submetendo-os ao Conselho Manda-chuva e à Assembleia Geral;
-3.  requisitar ao Tesoureiro, a qualquer tempo, documentação
+    submetendo-os ao Conselho e à Assembleia Geral;
+3.  Disponibilizar, a qualquer tempo, documentação
     comprobatória das operações financeiras realizadas pelo **LHC**;
 4.  acompanhar o trabalho de eventuais auditores externos independentes
     ou assessoria contábil; e
-5.  convocar extraordinariamente a Assembleia Geral, caso julgue ter
+5.  convocar extraordinariamente a Assembleia Geral, caso julguem ter
     encontrado irregularidades no objeto de sua fiscalização de
     gravidade justificável ao ato.
+6.  abrir e movimentar contas bancárias, assinar cheques ou documentos
+    contábeis, executar ordens de pagamento, recebimentos e
+    transferências bancárias;
+7.  administrar o recebimento de contribuições associativas, tomando as
+    medidas cabíveis quando do seu não cumprimento no prazo e forma
+    estipulados pelo [Regimento Interno](Regimento Interno);
+8.  supervisionar o trabalho de assessorias de tesouraria ou
+    contabilidade que venham a ser contratadas;
+9.  apresentar ao Conselho, anualmente e sempre que solicitado,
+    balancetes fiscais e financeiros; e
+10. substituir o Presidente em suas eventuais faltas e impedimentos.
 
--   Parágrafo 1º - Os membros do Conselho Fiscal serão eleitos em
+-   Parágrafo 1º - Os membros da Diretoria Fiscal serão eleitos em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
     deste Estatuto.
--   Parágrafo 2º - Os mandatos do Conselho Fiscal terão duração de 02
-    (dois) anos, sendo permitida apenas uma recondução.
+-   Parágrafo 2º - Os mandatos da Direotira Fiscal terão duração de 02
+    (dois) anos, sendo permitida a recondução ao cargo em eleição.
+
+Artigo 29
+---------
+
+A Diretoria Fiscal reunir-se-á ao menos duas vezes ao ano, sendo uma
+delas a não mais que duas semanas do final do exercício social, em sua
+maioria absoluta, em caráter ordinário e, extraordinariamente, sempre
+que convocado pelo Conselho, ou pela maioria dos seus membros.
 
 Artigo 30
 ---------
 
-O Conselho Fiscal reunir-se-á ao menos duas vezes ao ano, sendo uma
-delas a não mais que duas semanas do final do exercício social, em sua
-maioria absoluta, em caráter ordinário e, extraordinariamente, sempre
-que convocado pelo Conselho Manda-chuva, ou pela maioria dos seus
-membros.
+Os membros da Diretoria Fiscal não poderão ocupar, simultaneamente ao seu
+mandato, cargos na Diretoria Executiva.
 
 Artigo 31
 ---------
 
-Os membros do Conselho Fiscal não poderão ocupar, simultaneamente ao seu
-mandato, cargos na Diretoria Executiva.
-
-Artigo 32
----------
-
-Os membros do Conselho Fiscal serão eleitos em Assembleia Geral
+Os membros da Diretoria Fiscal serão eleitos em Assembleia Geral
 Ordinária, conforme o disposto nos Artigos 41 e 43 deste Estatuto.
+
 
 Capítulo VI - DA DIRETORIA EXECUTIVA
 ====================================
 
-Artigo 33
+Artigo 32
 ---------
 
 A Diretoria Executiva é o órgão responsável pela administração do 
-**LHC** e pela implementação da política estabelecida pelo Conselho
-Manda-chuva.
+**LHC** e pela implementação da política estabelecida pelo Conselho.
 
-Artigo 34
+Artigo 33
 ---------
 
-A Diretoria Executiva será composta por 05 (cinco) membros, assim
-discriminados: Presidente, Secretário, Tesoureiro, Diretor de Hardware e
-Diretor de Software; e reunir-se-á sempre que houver convocação do
-Presidente ou de quaisquer 02 (dois) de seus membros.
+A Diretoria Executiva será composta por 02 (dois) membros, e 
+reunir-se-á sempre que houver convocação do Presidente ou sempre 
+que convocado pelo Conselho, ou pela maioria dos seus membros.
 
 -   Parágrafo 1º - Os membros da Diretoria Executiva serão eleitos em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
     deste Estatuto.
 -   Parágrafo 2º - Os mandatos da Diretoria Executiva terão duração de
-    02 (dois) anos, sendo vedada a recondução de um Diretor para o mesmo
-    cargo.
+    02 (dois) anos, sendo permitida a recondução ao cargo em eleição.
 
-Artigo 35
+Artigo 34
 ---------
 
 Compete à Diretoria Executiva:
 
 1.  administrar o **LHC** e seu patrimônio de acordo com o presente
     Estatuto e implementando as deliberações da Assembleia Geral e do
-    Conselho Manda-chuva, promovendo o bem geral da entidade e dos
-    Associados;
+    Conselho, promovendo o bem geral da entidade e dos Associados;
 2.  cumprir e fazer cumprir o presente Estatuto;
-3.  instituir e destituir comissões ou grupos de trabalho com a função
-    de auxiliá-la em suas funções;
 4.  representar e defender os interesses dos Associados;
 5.  zelar pelo cumprimento do orçamento anual, e pela lisura das
     operações e demonstrações financeiras;
 6.  apresentar à Assembleia Geral Ordinária o relatório de sua gestão, e
     prestar contas referentes ao exercício financeiro;
-7.  comparecer às reuniões do Conselho Manda-chuva, de modo a promover a
-    sinergia entre os dois órgãos; e
-8.  manter em contas bancárias os valores do **LHC**, devendo aplicá-lo
-    de acordo com as deliberações do Conselho Manda-chuva ou da
-    Assembleia Geral.
-
--   Parágrafo 1º - As decisões da Diretoria Executiva deverão ser
-    tomadas por maioria simples dos votos dos presentes, com
-    participação necessária do Presidente e de no mínimo mais dois de
-    seus membros, cabendo ao Presidente, em caso de empate, o Voto de
-    Minerva.
--   Parágrafo 2º - Para a emissão de cheques ou realização de transações
-    bancárias serão necessárias, respectivamente, as assinaturas ou
-    autorização de dois diretores, sendo que um deles deve ser,
-    obrigatoriamente, o Tesoureiro ou o Diretor de Hardware.
-
-Artigo 36
----------
-
-Compete ao Presidente:
-
-1.  representar o **LHC** ativa e passivamente, perante os Órgãos
-    Públicos, Judiciais e Extrajudiciais, em juízo ou fora dele, podendo
-    delegar poderes e constituir advogados ou procuradores para o fim
-    que julgar necessário;
-2.  convocar e presidir as reuniões da Diretoria Executiva;
-3.  convocar a Assembleia Geral, conforme o disposto no Artigo 21;
-4.  organizar um relatório contendo balanço do exercício financeiro e os
-    principais eventos do ano anterior, apresentando-o anualmente à
-    Assembleia Geral Ordinária e trimestralmente ao Conselho
-    Manda-chuva;
-5.  representar o **LHC** perante outras entidades públicas ou privadas
-    externas, quando requisitado por estas, ou ainda em eventos,
-    premiações e comemorações oficiais; e
-6.  substituir o Secretário em suas eventuais faltas e impedimentos.
-
-Artigo 37
----------
-
-Compete ao Secretário:
-
-1.  redigir e manter em dia as atas das Assembleias Gerais e das
-    reuniões do Conselho Manda-chuva e da Diretoria Executiva;
-2.  manter e ter sob guarda os arquivos do **LHC**, incluindo
-    documentos, projetos, relatórios e códigos-fonte produzidos
-    internamente;
-3.  dirigir e supervisionar todo o trabalho de secretaria;
-4.  zelar pelo bom funcionamento dos sistemas de informação do **LHC**;
-    e
-5.  substituir os Diretores de Hardware e Software em suas eventuais
-    faltas e impedimentos.
-
-Artigo 38
----------
-
-Compete ao Tesoureiro:
-
-1.  abrir e movimentar contas bancárias, assinar cheques ou documentos
-    contábeis, executar ordens de pagamento, recebimentos e
-    transferências bancárias;
-2.  administrar o recebimento de contribuições associativas, tomando as
-    medidas cabíveis quando do seu não cumprimento no prazo e forma
-    estipulados pelo [Regimento Interno](Regimento Interno);
-3.  supervisionar o trabalho de assessorias de tesouraria ou
-    contabilidade que venham a ser contratadas;
-4.  apresentar ao Conselho Fiscal, anualmente e sempre que solicitado,
-    balancetes fiscais e financeiros; e
-5.  substituir o Presidente em suas eventuais faltas e impedimentos.
-
-Artigo 39
----------
-
-Compete ao Diretor de Hardware:
-
-1.  registrar aquisições e doações ao **LHC**;
-2.  zelar pela conservação do patrimônio e da infraestrutura do 
-    **LHC**;
-3.  zelar pela sede do **LHC**, controlando o acesso a ela na forma
+7.  comparecer às reuniões do Conselho, de modo a promover a
+    sinergia entre os dois órgãos;
+8.  registrar aquisições e doações ao **LHC**;
+9.  zelar pela conservação do patrimônio e da infraestrutura do  **LHC**;
+10. zelar pela sede do **LHC**, controlando o acesso a ela na forma
     estabelecida pelo Regimento Interno;
-4.  confeccionar e manter a relação dos bens do **LHC**, deixando-a
+11. confeccionar e manter a relação dos bens do **LHC**, deixando-a
     disponível à consulta dos Associados e apresentando-a, quando
     solicitada, aos demais órgãos do **LHC**; e
-5.  substituir o Tesoureiro em suas eventuais faltas e impedimentos.
 
-Artigo 40
----------
-
-Compete ao Diretor de Software:
-
-1.  manter atualizado o quadro social;
-2.  fomentar a sociabilização entre os Associados;
-3.  propor ou coordenar a realização de eventos técnicos e sociais;
-4.  promover a comunicação interna do **LHC** e incentivar a troca de
-    informações entre os Associados;
-5.  promover ações visando o aumento do quadro social; e
-6.  promover a divulgação externa do **LHC**, tornando de conhecimento
-    público os valores e as atividades realizadas por ele.
 
 Capítulo VII - DAS ELEIÇÕES E MANDATOS
 ======================================
 
-Artigo 41
+Artigo 35
 ---------
 
-As eleições para a Diretoria Executiva e Conselho Fiscal realizar-se-ão
-conjuntamente, em Assembleia Geral Ordinária, por candidatura individual
-a cada cargo, para mandatos de 02 (dois) anos.
+As eleições para a Presidência, Diretoria Executiva, Diretoria Fiscal 
+e Chefe do Conselho realizar-se-ão conjuntamente, em Assembleia Geral 
+Ordinária, por candidatura individual a cada cargo, para mandatos de 
+02 (dois) anos.
 
 -   Parágrafo 1º - caberá ao Secretário receber antecipadamente as
     fichas de inscrição dos candidatos.
 -   Parágrafo 2º - apenas Associados Titulares que tenham sido admitidos
-    ao quadro social há mais de 06 (seis) meses poderão candidatar-se
+    ao quadro social há mais de 02 (dois) anos poderão candidatar-se
     aos cargos da Diretoria Executiva.
 -   Parágrafo 3º - será permitido a cada Associado elegível a
     apresentação de apenas uma candidatura para a Diretoria Executiva ou
     uma candidatura para o Conselho Fiscal.
 -   Parágrafo 4º - cada Associado Efetivo presente na ocasião das
-    eleições poderá votar em apenas um candidato para cada cargo da
-    Diretoria Executiva e em até 03 (três) candidatos para o Conselho
-    Fiscal.
--   Parágrafo 5º - serão declarados eleitos para a Diretoria Executiva
-    os primeiros colocados na eleição para cada cargo.
--   Parágrafo 6º - serão declarados eleitos para o Conselho Fiscal os
-    três candidatos que receberem o maior número de votos.
+    eleições poderá votar em apenas um candidato para cada cargo.
+-   Parágrafo 5º - serão declarados eleitos os 02 (dois) primeiros
+    colocados na eleição para cada cargo, exceto Chefe do Conselho.
+-   Parágrafo 6º - será declarado eleito Chefe do Conselho
+    o candidato que receber o maior número de votos.
 
-Artigo 42
+
+Artigo 36
 ---------
 
-O **LHC** reconhece 42 como a resposta para a pergunta fundamental
-sobre a vida, o universo e tudo mais.
-
-Artigo 43
----------
-
-As eleições para o Diretoria Executiva e o Conselho Fiscal serão
-convocadas na forma de Assembleia Geral Ordinária por edital, contendo
-data, horário e local, fixado na sede e divulgado por meios eletrônicos
-conforme o Regimento Interno, devendo a Assembleia ser realizada com
-antecedência de 45 (quarenta e cinco) a 15 (quinze) dias do término dos
-mandatos correntes.
+As eleições serão convocadas na forma de Assembleia Geral Ordinária 
+por edital, contendo data, horário e local, fixado na sede e divulgado 
+por meios eletrônicos conforme o Regimento Interno, devendo a Assembleia 
+ser realizada com antecedência de 45 (quarenta e cinco) a 15 (quinze) dias 
+do término dos mandatos correntes.
 
 -   Parágrafo 1º - As candidaturas deverão ser registradas até 48
     (quarenta e oito) horas antes do horário constante do edital de
@@ -715,11 +626,11 @@ mandatos correntes.
 -   Parágrafo 3º - Os mandatos eleitos pela Assembleia Geral Ordinária
     terão início imediatamente após o término dos mandatos correntes.
 
-Artigo 44
+Artigo 37
 ---------
 
-Estarão sujeitos à perda do mandato o Chanceler Supremo, os membros da
-Diretoria Executiva e do Conselho Fiscal que incorrerem em:
+Estarão sujeitos à perda do mandato o Presidente, o Chefe do Conselho, 
+os membros da Diretoria Executiva e da Diretoria Fiscal que incorrerem em:
 
 1.  malversação ou dilapidação do patrimônio social;
 2.  grave violação deste Estatuto;
@@ -729,25 +640,24 @@ Diretoria Executiva e do Conselho Fiscal que incorrerem em:
 5.  conduta duvidosa ou incompatível com os princípios e objetivos do
     **LHC**.
 
-Artigo 45
+Artigo 38
 ---------
 
-Em caso de renúncia ou destituição de qualquer membro da Diretoria
-Executiva ou do Conselho Fiscal, o cargo será preenchido interinamente,
-até o final do mandato, por Associado Efetivo elegível indicado pelo
-Conselho Manda-chuva.
+Em caso de renúncia ou destituição de qualquer membro de cargo eletivo,
+o cargo será preenchido interinamente, até o final do mandato, 
+por Associado Efetivo elegível indicado.
 
 -   Parágrafo único - ocorrendo renúncia ou destituição de mais da
-    metade dos membros da Diretoria ou do Conselho Fiscal, o Conselho
-    Manda-chuva deverá, imediatamente, convocar uma Assembleia Geral
-    Extraordinária que elegerá os Diretores e Conselheiros faltantes. Os
-    eleitos nestas condições ocuparão os cargos dos renunciantes ou
-    destituídos até o término dos mandatos interrompidos.
+    metade dos membros eletivos, o Conselho deverá, imediatamente, 
+    convocar uma Assembleia Geral Extraordinária que elegerá os membros 
+    faltantes. Os eleitos nestas condições ocuparão os cargos dos 
+    renunciantes ou destituídos até o término dos mandatos interrompidos.
+
 
 Capítulo VIII - DO PATRIMÔNIO
 =============================
 
-Artigo 46
+Artigo 39
 ---------
 
 O patrimônio do **LHC** é constituído e mantido por:
@@ -763,24 +673,29 @@ O patrimônio do **LHC** é constituído e mantido por:
 -   Parágrafo único - As receitas do **LHC** serão integralmente
     aplicadas na consecução de seus objetivos sociais.
 
-Artigo 47
+Artigo 40
 ---------
 
-O **LHC** não remunerará, por qualquer forma, os cargos de sua
-Diretoria e Conselhos, cujas atuações são inteiramente gratuitas e de
-caráter voluntário, sendo também vedada a distribuição de rendas, lucros
-ou bonificações, sob qualquer forma ou pretexto, a Diretores,
-Conselheiros, Manda-chuvas e demais Associados, exceto quando na forma
-de reembolsos por despesas efetuadas em benefício do **LHC**, com o
-devido aval da Diretoria Executiva, posteriormente referendado pelo
-Conselho Manda-chuva.
+O **LHC** não remunerará, por qualquer forma, os membros de cargos eletivos,
+cujas atuações são inteiramente gratuitas e de caráter voluntário, sendo também 
+vedada a distribuição de rendas, lucros ou bonificações, sob qualquer forma ou 
+pretexto, exceto quando na forma de reembolsos por despesas efetuadas em 
+benefício do **LHC**, com o devido aval da Diretoria Executiva, posteriormente 
+referendado pelo Conselho.
 
-Artigo 48
+Artigo 41
 ---------
 
 Em caso de dissolução do **LHC**, o patrimônio social será destinado a
 outra associação com objeto social igual ou similar, a ser indicada em
 Assembleia Geral, ou, em último caso, ao poder público.
+
+Artigo 42
+---------
+
+O **LHC** também reconhece 42 (quarenta e dois) como a resposta 
+para a pergunta fundamental sobre a vida, o universo e tudo mais.
+
 
 Capítulo IX - DO EXERCÍCIO SOCIAL, FISCAL E FINANCEIRO
 ======================================================
