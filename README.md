@@ -13,11 +13,9 @@ Estão também documentados aqui:
 - Código de conduta
 - Estatuto da associação
 
-Para contribuir, abra um PR enviando suas 
+Para contribuir, abra um request enviando suas 
 modificações. Apenas se atente a duas regras:
 
 - A sigla LHC escrevemos `**LHC**` sempre
 - Usamos apenas Markdown, evite poluir com tags
 
-**OBS**: estou revisando, vou juntar presidencia com
-diretoria de software.
