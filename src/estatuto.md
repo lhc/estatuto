@@ -1,11 +1,15 @@
-Laboratório Hacker de Campinas
+LABORATÓRIO HACKER DE CAMPINAS 
+==============================
 
+Este Estatuto Social foi aprovado em
+[Assembleia de Fundação](https://lhc.net.br/wiki/assembleia_fundacao) 
+realizada no dia 01 de Janeiro de 1900. É mantido de forma *open-source*,
+junto com o [Código de Conduta](https://lhc.net.br/wiki/codigo_conduta), 
+o [Regimento Interno](https://lhc.net.br/wiki/regimento_interno), atas de
+reuniões e demais documentos relacionados, no 
+[Github](https://github.com/lhc/estatuto/) do **LHC**.
 
-Estatuto Social aprovado em
-[Assembleia de Fundação](Assembleia de Fundação) 
-realizada no dia 01 de Janeiro de 1900. Alterado na
-[Assembleia Geral Estatutária](Assembleia_Geral_Estatutária_2013) de 09
-de março de 2013
+---
 
 
 Capítulo I - DA DENOMINAÇÃO, PRAZO DE DURAÇÃO, SEDE E OBJETO SOCIAL
@@ -22,14 +26,17 @@ religioso ou partidário, com a finalidade de atender a todos a que a
 ele se associem e também ao público em geral, regida pelo presente 
 Estatuto Social e legislação aplicável.
 
--   Parágrafo único - O **LHC** foi fundado no dia 12 de Outubro de
-    2011 e tem prazo de duração indeterminado.
+-   Parágrafo único - O **LHC** foi simbolicamente fundado no dia 12 
+    de Outubro de 2011, data das festividades de anivérsário. A 
+    Associação Mantenedora do **LHC** existe desde a data de aprovação
+    do presente Estatuto e tem prazo de duração indeterminado.
 
 Artigo 2º
 ---------
 
-O **LHC** tem sede e foro em Campinas, Estado de São Paulo, à Rua
-Costa Carvalho, 567 FUNDOS, Pinheiros, CEP 05429-130.
+O **LHC** tem sede e foro em Campinas, Estado de São Paulo, à 
+Rua Sales de Oliveira, 1800, Vila Industrial - Campinas-SP.
+CEP 13035-500
 
 Artigo 3º
 ---------
@@ -39,7 +46,7 @@ O **LHC** tem como princípios:
 1.  o acesso livre e universal ao conhecimento gerado sob suas
     premissas;
 2.  o financiamento de suas atividades majoritariamente por seus
-    próprios Associados; e
+    próprios Associados ou através de doações; e
 3.  a garantia da livre iniciativa de seus Associados na proposição e
     execução de projetos individuais ou coletivos.
 
@@ -123,7 +130,7 @@ distintos em três categorias:
 
 1.  Associado Fundador: aquele que tenha participado da Assembleia de
     Fundação do **LHC**, tendo realizado o aporte patrimonial
-    determinado nesta Assembleia.
+    determinado nesta Assembléia.
 2.  Associado Titular: pessoa física que tenha sua proposta de
     associação aprovada por instância competente;
 3.  Associado Honorário: título simbólico concedido a pessoa de notório
@@ -253,7 +260,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, A Presidência, o Conselho, a diretoria Fiscal e a Diretoria
+    entre si, A Presidência, o Conselho, a Diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17
@@ -261,12 +268,13 @@ Artigo 17
 
 Compete privativamente à Assembleia Geral:
 
-1.  eleger a Presidência, a Diretoria Executiva e a Diretoria Fiscal;
+1.  eleger a Presidência, a Diretoria Executiva, a Diretoria Fiscal e o
+    Chefe do Conselho;
 2.  deliberar sobre a compra ou alienação de bens imóveis;
 3.  deliberar sobre a celebração de convênios, aquisições ou contratos
     com valor superior a 25 salários mínimos;
 4.  destituir a Presidência, a Diretoria Executiva e a Diretoria Fiscal, 
-        inteiramente ou seus membros, assim como o Chefe do Conselho;
+    inteiramente ou seus membros, assim como o Chefe do Conselho;
 5.  alterar o Estatuto Social;
 6.  deliberar quanto à dissolução da Associação; e
 7.  decidir em última instância.
@@ -470,11 +478,60 @@ cabendo apenas um voto a cada membro presente.
     postergada até a próxima reunião ordinária. Persistindo o empate, o
     Chefe do Conselho terá direito ao Voto de Minerva.
 
-
-Capítulo V - DA DIRETORIA FISCAL
-===============================
+Capítulo V - DA PRESIDÊNCIA
+===========================
 
 Artigo 28
+---------
+
+A Presidência do **LHC** é o órgão que representa o **LHC** ativa e passivamente
+perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais, 
+em juízo ou fora dele, podendo delegar poderes e constituir advogados ou 
+procuradores para o fim que julgar necessário. A Presidência do **LHC**
+será composto por 02 (dois) membros eleitos pela Assembleia Geral e por ordem
+de votos recebidos, sendo o primeiro mais bem votado designado de presidente,
+e o segundo assumindo a vice-presidência.
+
+Artigo 29
+---------
+
+Compete à Presidência:
+
+1.  convocar e presidir as reuniões das Diretorias Executiva e Fiscal;
+2.  convocar a Assembleia Geral, conforme o disposto no Artigo 21;
+3.  organizar um relatório contendo balanço do exercício financeiro e 
+    os principais eventos do ano anterior, apresentando-o anualmente 
+    ao Conselho;
+4.  representar o **LHC** perante outras entidades públicas ou privadas 
+    externas, quando requisitado por estas, ou ainda em eventos, 
+    premiações e comemorações oficiais; e
+5.  manter atualizado o quadro social;
+6.  fomentar a sociabilização entre os Associados;
+7.  propor ou coordenar a realização de eventos técnicos e sociais;
+8.  promover a comunicação interna do **LHC** e incentivar a troca 
+    de informações entre os Associados;
+9.  promover ações visando o aumento do quadro social; e
+10. promover a divulgação externa do **LHC**, tornando de 
+    conhecimento público os valores e as atividades realizadas por ele.
+11. assinar, preferencialmente junto com a titular da Diretoria Fiscal, 
+    cheques, promissórias e todos os demais títulos de crédito de emissão 
+    e responsabilidade;
+12. assinar, juntamente com o titular da Diretoria Fiscal, todos os convênios, 
+    ajustes técnicos e demais contratos firmados pelo **LHC** com terceiros de 
+    qualquer natureza;
+13. visar, juntamente com o titular da Diretoria Fiscal, a apresentação de projetos, 
+    precedendo à lavratura dos respectivos convênios e contratos;
+14. assinar, juntamente com os titulares da Diretoria Fiscal e Executiva, as Atas das 
+    reuniõese, assim como outros documentos que signifiquem compromisso formal do 
+    **LHC**; e,
+15. cumprir outras atribuições que venham a ser estabelecidas por aprovação da 
+    Assembléia Geral ou do Regimento Interno.
+
+
+Capítulo VI - DA DIRETORIA FISCAL
+================================
+
+Artigo 30
 ---------
 
 A Diretoria Fiscal, órgão fiscalizador das finanças do **LHC**, será
@@ -510,7 +567,7 @@ seguintes atribuições:
 -   Parágrafo 2º - Os mandatos da Direotira Fiscal terão duração de 02
     (dois) anos, sendo permitida a recondução ao cargo em eleição.
 
-Artigo 29
+Artigo 31
 ---------
 
 A Diretoria Fiscal reunir-se-á ao menos duas vezes ao ano, sendo uma
@@ -518,29 +575,29 @@ delas a não mais que duas semanas do final do exercício social, em sua
 maioria absoluta, em caráter ordinário e, extraordinariamente, sempre
 que convocado pelo Conselho, ou pela maioria dos seus membros.
 
-Artigo 30
+Artigo 32
 ---------
 
 Os membros da Diretoria Fiscal não poderão ocupar, simultaneamente ao seu
 mandato, cargos na Diretoria Executiva.
 
-Artigo 31
+Artigo 33
 ---------
 
 Os membros da Diretoria Fiscal serão eleitos em Assembleia Geral
 Ordinária, conforme o disposto nos Artigos 41 e 43 deste Estatuto.
 
 
-Capítulo VI - DA DIRETORIA EXECUTIVA
+Capítulo VII - DA DIRETORIA EXECUTIVA
 ====================================
 
-Artigo 32
+Artigo 34
 ---------
 
 A Diretoria Executiva é o órgão responsável pela administração do 
 **LHC** e pela implementação da política estabelecida pelo Conselho.
 
-Artigo 33
+Artigo 35
 ---------
 
 A Diretoria Executiva será composta por 02 (dois) membros, e 
@@ -553,7 +610,7 @@ que convocado pelo Conselho, ou pela maioria dos seus membros.
 -   Parágrafo 2º - Os mandatos da Diretoria Executiva terão duração de
     02 (dois) anos, sendo permitida a recondução ao cargo em eleição.
 
-Artigo 34
+Artigo 36
 ---------
 
 Compete à Diretoria Executiva:
@@ -578,10 +635,10 @@ Compete à Diretoria Executiva:
     solicitada, aos demais órgãos do **LHC**; e
 
 
-Capítulo VII - DAS ELEIÇÕES E MANDATOS
-======================================
+Capítulo VIII - DAS ELEIÇÕES E MANDATOS
+=======================================
 
-Artigo 35
+Artigo 37
 ---------
 
 As eleições para a Presidência, Diretoria Executiva, Diretoria Fiscal 
@@ -605,7 +662,7 @@ Ordinária, por candidatura individual a cada cargo, para mandatos de
     o candidato que receber o maior número de votos.
 
 
-Artigo 36
+Artigo 38
 ---------
 
 As eleições serão convocadas na forma de Assembleia Geral Ordinária 
@@ -626,7 +683,7 @@ do término dos mandatos correntes.
 -   Parágrafo 3º - Os mandatos eleitos pela Assembleia Geral Ordinária
     terão início imediatamente após o término dos mandatos correntes.
 
-Artigo 37
+Artigo 39
 ---------
 
 Estarão sujeitos à perda do mandato o Presidente, o Chefe do Conselho, 
@@ -640,7 +697,7 @@ os membros da Diretoria Executiva e da Diretoria Fiscal que incorrerem em:
 5.  conduta duvidosa ou incompatível com os princípios e objetivos do
     **LHC**.
 
-Artigo 38
+Artigo 40
 ---------
 
 Em caso de renúncia ou destituição de qualquer membro de cargo eletivo,
@@ -654,10 +711,10 @@ por Associado Efetivo elegível indicado.
     renunciantes ou destituídos até o término dos mandatos interrompidos.
 
 
-Capítulo VIII - DO PATRIMÔNIO
-=============================
+Capítulo IX - DO PATRIMÔNIO
+===========================
 
-Artigo 39
+Artigo 41
 ---------
 
 O patrimônio do **LHC** é constituído e mantido por:
@@ -673,7 +730,13 @@ O patrimônio do **LHC** é constituído e mantido por:
 -   Parágrafo único - As receitas do **LHC** serão integralmente
     aplicadas na consecução de seus objetivos sociais.
 
-Artigo 40
+Artigo 42
+---------
+
+O **LHC** também reconhece 42 (quarenta e dois) como a resposta 
+para a pergunta fundamental sobre a vida, o universo e tudo mais.
+
+Artigo 43
 ---------
 
 O **LHC** não remunerará, por qualquer forma, os membros de cargos eletivos,
@@ -683,118 +746,96 @@ pretexto, exceto quando na forma de reembolsos por despesas efetuadas em
 benefício do **LHC**, com o devido aval da Diretoria Executiva, posteriormente 
 referendado pelo Conselho.
 
-Artigo 41
+Artigo 44
 ---------
 
 Em caso de dissolução do **LHC**, o patrimônio social será destinado a
 outra associação com objeto social igual ou similar, a ser indicada em
 Assembleia Geral, ou, em último caso, ao poder público.
 
-Artigo 42
----------
 
-O **LHC** também reconhece 42 (quarenta e dois) como a resposta 
-para a pergunta fundamental sobre a vida, o universo e tudo mais.
+Capítulo X - DO EXERCÍCIO SOCIAL, FISCAL E FINANCEIRO
+=====================================================
 
-
-Capítulo IX - DO EXERCÍCIO SOCIAL, FISCAL E FINANCEIRO
-======================================================
-
-Artigo 49
+Artigo 44
 ---------
 
 O exercício social e financeiro terá duração de aproximadamente 01 (um)
 ano, tendo início e fim na data de realização da Assembleia Geral
 Ordinária.
 
-Artigo 50
+Artigo 45
 ---------
 
 O exercício fiscal terminará em 31 de dezembro de cada ano, quando serão
 elaboradas as demonstrações financeiras da Associação, em conformidade
 com as disposições legais.
 
-Artigo 51
+Artigo 46
 ---------
 
 As finanças do **LHC** serão regidas pela previsão orçamentária anual,
-analisada pelo Conselho Fiscal, elaborada e aprovada pelo Conselho
-Manda-chuva e referendada pela Assembleia Geral Ordinária.
+apresentadas pela Diretoria Fiscal, elaborada e aprovada pelo Conselho
+e referendada pela Assembleia Geral Ordinária.
 
-Artigo 52
+Artigo 47
 ---------
 
-A Diretoria Executiva apresentará relatórios financeiros trimestrais ao
-Conselho Manda-chuva, que deverá aprová-los. A prestação de contas do
+A Diretoria Fiscal disponibilizará eletronicamente relatórios financeiros ao
+Conselho e demais membros do **LHC**. A prestação de contas do
 exercício findo deverá ser submetido anualmente à apreciação do Conselho
-Manda-chuva e da Assembleia Geral.
+e da Assembleia Geral.
 
-Capítulo X - DAS DISPOSIÇÕES GERAIS
-===================================
+Capítulo XI - DAS DISPOSIÇÕES GERAIS
+====================================
 
-Artigo 53
+Artigo 48
 ---------
 
 O presente Estatuto poderá ser reformado, no todo ou em parte, a
 qualquer tempo, por deliberação de Assembleia Geral unicamente convocada
 para este fim, nos termos deste Estatuto Social.
 
-Artigo 54
+Artigo 49
 ---------
 
-São símbolos distintivos do **LHC**:
-
-1.  o guarda-chuva verde e/ou preto; e
-2.  o cinescópio de fósforo verde com um guarda-chuva ao centro.
-
-Parágrafo único - a critério da Assembleia Geral, o **LHC** poderá
-adotar outros símbolos distintivos.
-
-Artigo 55
----------
-
-O **LHC** entende como \'\'hacker\'\':
+O **LHC** entende como *hacker*:
 
 1.  a pessoa que tem gosto em ter um entendimento profundo do
-    funcionamento interno de sistemas, computadores e redes
-    informáticas;
-2.  hobbistas interessados em computação pessoal, hardware e eletrônica,
-    adeptos da prática de projeto e construção amadora; e
+    funcionamento interno de todo tipo de sistema, não só computadores 
+    e redes informáticas;
+2.  hobbistas interessados em computação, hardware e eletrônica,
+    adeptos do movimento *Maker*; e
 3.  alguém que aplica o seu engenho para conseguir um resultado
     inteligente, rápido e eficiente.
 
-Capítulo XI - DAS DISPOSIÇÕES TRANSITÓRIAS
+Capítulo XII - DAS DISPOSIÇÕES TRANSITÓRIAS
 ==========================================
 
-Artigo 56
+Artigo 50
 ---------
 
-A Assembleia de Fundação indicará os membros da primeira Diretoria
-Executiva e do primeiro Conselho Fiscal, para exercer mandato válido até
-19/02/2013; indicará o primeiro Chanceler Supremo, com mandato válido
-até 19/02/2012; e determinará o valor do aporte patrimonial a ser
-efetuado pelos Associados Fundadores.
+A Assembleia de Fundação indicará a Presidência, o Chefe do Conselho, 
+os membros da  primeira Diretoria Executiva e da primeira Diretoria Fiscal, 
+para exercer mandato válido até 31/12/2022; e determinará o valor do 
+aporte patrimonial a ser efetuado pelos Associados Fundadores.
 
-Artigo 57
+Artigo 51
 ---------
 
 Imediatamente após a Assembleia de Fundação do **LHC**, todos os
-Associados Efetivos, salvo manifestação em contrário, ingressarão no
-Conselho Manda-chuva, que terá a obrigação de elaborar o
+Associados Efetivos poderão manifestar desejo de ingressar no
+Conselho, que terá a obrigação de revisar o
 [Regimento Interno](Regimento Interno) e o
-[Código de Conduta](Código de Conduta) no prazo de 30 dias.
+[Código de Conduta](Código de Conduta) no prazo de 120 dias após
+a data constante em Ata de Fundação.
 
-Capítulo XII - DAS DISPOSIÇÕES FINAIS
+
+Capítulo XIII - DAS DISPOSIÇÕES FINAIS
 =====================================
 
-Artigo 58
----------
-
-Esta não é uma fnord disposição final.
-
-Artigo 59
+Artigo 52
 ---------
 
 Este Estatuto entra em vigor a partir da data de sua aprovação.
 
-[Categoria:Meta](Categoria:Meta)

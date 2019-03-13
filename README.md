@@ -8,13 +8,16 @@ para PDF usando o taget `build-pdf` (Makefile).
 Você vai precisar instalar o 
 [Pandoc](https://pandoc.org/) para gerar os PDFs.
 
-Estão documentados aqui:
+Estão também documentados aqui:
 
 - Código de conduta
 - Estatuto da associação
 
 Para contribuir, abra um PR enviando suas 
-modificações.
+modificações. Apenas se atente a duas regras:
+
+- A sigla LHC escrevemos `**LHC**` sempre
+- Usamos apenas Markdown, evite poluir com tags
 
 **OBS**: estou revisando, vou juntar presidencia com
-diretoria de software. Parei no capitulo IX
+diretoria de software.

@@ -1,11 +1,20 @@
-O Regimento Interno do Garoa Hacker Clube foi elaborado e pode ser
-alterado pelo Conselho Manda-chuva, devendo ser consolidado ao início do
+LABORATÓRIO HACKER DE CAMPINAS 
+==============================
+
+Este Regimento Interno foi aprovado em
+[Assembleia de Fundação](https://lhc.net.br/wiki/assembleia_fundacao) 
+realizada no dia 01 de Janeiro de 1900. É mantido de forma *open-source*,
+junto com o [Código de Conduta](https://lhc.net.br/wiki/codigo_conduta), 
+atas de reuniões e demais documentos relacionados, no 
+[Github](https://github.com/lhc/estatuto/) do **LHC**.
+
+O Regimento Interno foi elaborado e pode ser
+alterado pelo Conselho, devendo ser consolidado ao início do
 mandato de cada gestão, podendo sofrer alterações a qualquer momento, no
 surgimento de qualquer bug, incorporando as modificações ocorridas ao
 longo de qualquer mandato.
 
-OBS: A estrutura atual do Regimento Interno foi revista e reorganizada
-na [Reunião de 19/06/2018](Reunião de 19/06/2018).
+---
 
 Dos Associados
 ==============
@@ -13,36 +22,16 @@ Dos Associados
 Admissão de novos membros
 -------------------------
 
-1.  O interessado em associar-se ao Garoa HC deverá:
+1.  O interessado em associar-se ao **LHC** deverá:
     1.  apresentar-se na lista de discussão ou pessoalmente;
-    2.  participar de pelo menos uma atividade presencial (mas o ideal é
-        participar do máximo possível);
-    3.  criar uma página de usuário com informações sobre quem é, o que
-        faz, etc; opcionalmente, editar a página
-        [Associados](Associados), colocando seu nome na
-        [Lista de Interesse](Associados#Lista de Interesse);
-    4.  encontrar um associado que será seu \'\'mentor\'\', que deverá
-        auxiliá-lo em sua integração com o Garoa;
-2.  \<strike\>o CMC terá até 3 meses para ratificar a associação do
-    \'\'padawan\'\'.\</strike\> Revogado na
-    [Reunião de 18/10/2011](Reunião de 18/10/2011).
-3.  \<strike\>o \'\'padawan\'\' já deverá começar a contribuir com as
-    mensalidades.\</strike\> Revogado na
-    [Reunião de 26/07/2011](Reunião de 26/07/2011).
-4.  o mentor deverá apresentar seu padawan em uma reunião do CMC, o que
-    iniciará o processo de admissão. A partir da reunião seguinte, o
-    mentor poderá colocar em pauta a aprovação da admissão de seu
-    padawan. Cabe ao mentor decidir quando o Padawan está pronto para
-    tal.
-5.  Como boa prática (não obrigatória), o CMC recomenda que, ao sugerir
-    a associação de um Padawan, o mentor deve enviar uma mensagem na
-    lista de associados informando o interesse de associação e pedindo a
-    opinião dos demais associados, que será considerada durante a
-    reunião no momento de aprovação do novo associado. Aprovado na
-    [Reunião de 16/02/2016](Reunião de 16/02/2016)
-6.  O CMC e o mestre jedi devem dar feedback (positivo ou negativo) aos
-    padawans, quer sejam aprovados ou não. (Aprovado na
-    [Reunião de 18/04/2017](Reunião de 18/04/2017))
+    2.  criar uma página de usuário com informações sobre quem é, o que
+        faz, etc;
+    3.  encontrar um associado que será seu **mentor**, que deverá
+        auxiliá-lo em sua integração;
+2.  O **LHC** terá até 3 meses para ratificar a associação do interessado
+    em associar-se que tenha cumprido o passo 1 da admissão aqui descrita.
+3.  O interessado em associar-se já deverá começar a contribuir com as
+    mensalidades.
 
 Contribuições associativas
 --------------------------
@@ -50,100 +39,63 @@ Contribuições associativas
 1.  Veja os valores atualizados em [Mensalidades](Mensalidades)
 2.  Anuidade: Pago à vista. Válida por um ano da data de pagamento. O
     desconto só é concedido quando a anuidade for paga em fevereiro.
-    (Aprovado na [Reunião de 20/02/2018](Reunião de 20/02/2018))
-3.  \<strike\>Todas as outras datas serão concedidos 1 mês de desconto
-    proporcional ao mês que decidir pagar a anuidade e vencerá sempre em
-    fevereiro. Assim todas as anuidades ficarão com vencimento para
-    fevereiro.\</strike\> (Revogado na
-    [Reunião de 20/02/2018](Reunião de 20/02/2018) pois este item era
-    transitório)
-4.  Mensalidade: Vencimento no dia 15 de cada mês. Pagamento via
-    depósito ou dinheiro.
-    [Assembleia Geral Ordinária 2017](Assembleia Geral Ordinária 2017)
-    (valores ajustados na
-    [Reunião de 16/01/2018](Reunião de 16/01/2018))
-5.  Pagamentos de mensalidade serão aceitos apenas em forma de depósito
-    na conta bancária do Garoa ou dinheiro. O pagamento só será
-    computado se o comprovante for enviado para pagamentos arroba
-    garoa.net.br. SEMPRE QUE POSSÍVEL identificação no depósito
-    (preferencialmente com o seu nome ou nick se souberem qual é)
-    (Aprovado na [Reunião de 22/11/2011](Reunião de 22/11/2011))
-    (reafirmado na [Reunião de 21/01/2014](Reunião de 21/01/2014))
+3.  Mensalidade: Vencimento no dia 15 de cada mês. Pagamento via
+    Paypal, depósito ou dinheiro.
 
 Não Pagamento das contribuições associativas
 --------------------------------------------
 
 1.  Segundo o [Artigo 14 do Estatuto](Estatuto#Artigo_14), a perda da
-    qualidade de Associado dar-se-á pelo não pagamento de três parcelas
-    consecutivas das contribuições associativas. A Diretoria Executiva e
-    o CMC devem proceder da seguinte forma: (Aprovado na
-    [Reunião de 21/08/2012](Reunião de 21/08/2012))
-    1.  A Tesouraria deverá enviar, na semana anterior a reunião do CMC,
-        um aviso final de pagamento aos Associados com 3 meses de atraso
-        nas suas contribuições associativas receberão e terão até o dia
-        da reunião para quitar sua dívida, caso contrário eles serão
-        desassociados automaticamente do Garoa.
-    2.  A perda de qualidade de associado deverá constar em ata na
-        reunião do CMC.
+    qualidade de Associado dar-se-á pelo não pagamento de duas parcelas
+    consecutivas das contribuições associativas. A Diretoria Fiscal e
+    o Conselho devem proceder da seguinte forma:
+    1.  Deverão enviar um aviso final de pagamento aos Associados com 
+        2 meses de atraso nas suas contribuições associativasi, e esses 
+        terão um prazo de 15 dias para quitar sua dívida, caso contrário
+        eles serão desassociados automaticamente.
+    2.  A perda de qualidade de associado deverá ser comunicada na lista
+        de e-mail dos associados.
     3.  O Associado que perdeu sua condição por falta de pagamento
-        poderá solicitar ao CMC sua reassociação, após o pagamento do
-        equivalente a três vezes o valor da mensalidade mínima. A
-        reassociação deve ser aprovada em reunião do CMC.
+        poderá solicitar ao **LHC** sua reassociação, após o pagamento do
+        equivalente a duas vezes o valor da mensalidade mínima. A
+        reassociação deve ser aprovada em reunião do Conselho.
 
 Benefícios adicionais dos associados
 ------------------------------------
 
-1.  Todos os Associados Efetivos terão direito à chave do Garoa.
-    (Atualizado na [Reunião de 18/04/2017](Reunião de 18/04/2017))
+1.  Todos os Associados Efetivos terão direito à chave do **LHC**.
 2.  Todos os Associados Efetivos terão direito a manter pertences
-    próprios no depósito do Garoa, em 2 gavetas devidamente
-    identificadas no gaveteiro reservado para este fim. O CMC tem o
+    próprios no depósito do **LHC**, em caixas devidamente
+    identificadas no armário reservado para este fim. O **LHC** tem o
     direito de recusar esse benefício caso o associado deseje guardar
-    itens que possam representar risco aos frequentadores do Garoa. O
-    CMC tem o direito de aprovar a guarda de itens de maior volume se
-    entender que tais itens sejam relevantes para alguma atividade do
-    Garoa. (Atualizado na
-    [Reunião de 19/12/2017](Reunião de 19/12/2017))
+    itens que possam representar risco aos frequentadores.
 
 Desvios de conduta
 ------------------
 
-Incluido na [Reunião de 16/10/2018](Reunião de 16/10/2018)
-
-Em situações em que o CMC detecte comportamentos de associados que sejam
-em desacordo com os princípios do clube, nosso estatuto, código de
+Em situações em que o Conselho detecte comportamentos de associados que sejam
+em desacordo com os princípios do **LHC**, nosso estatuto, código de
 conduta ou regimento interno, ou ações que causem incomodo reconhecido
-pelos associados, o CMC pode decidir por ações com objetivo de orientar,
+pelos associados, o Conselho pode decidir por ações com objetivo de orientar,
 educar e, em último caso, punir tal comportamento.
 
-Reunião do Conselho Manda-chuva
--------------------------------
+Reunião do Conselho
+-------------------
 
-1.  O Conselho Manda-chuva reunir-se-á ordinariamente na terceira
-    terça-feira de cada mês, às 19h30, na sede do Garoa HC.
-2.  O teto obrigatório da reunião do Conselho Manda-chuva será 23h30,
-    devido ao horário de encerramento do metrô. Em casos excepcionais,
+1.  O Conselho reunir-se-á ordinariamente na terceira
+    terça-feira de cada mês, às 19h30, na sede do **LHC**.
+2.  O teto obrigatório da reunião do Conselho será 23h30. Em casos excepcionais,
     como assuntos urgentes ou polêmicos, excessões poderão ser abertas
     mediante a garantia de transporte (carona) para todos os presentes.
-    (Aprovado na [Reunião de 22/11/2011](Reunião de 22/11/2011))
-3.  Será permitida a participação remota dos membros do CMC através
+3.  Será permitida a participação remota dos membros do **LHC** através
     meios de comunicação online, preferencialmente com vídeo. A
     participação deverá ser projetada na parede da sala, para todos
-    acompanharem. (Aprovado na
-    [Reunião de 18/03/2014](Reunião de 18/03/2014))
-4.  é Permitida a transmissão online sob demanda, em \"sala privada\",
-    limitada a associados remotos que o solicitarem antecipadamente.
-    Cabe ao associado remoto organizar esta atividade. A transmissão não
-    deve ser gravada. (Aprovado na
-    [Reunião de 18/04/2017](Reunião de 18/04/2017))
-5.  Justificativas de ausência devem ser registradas na pauta (rascunho
-    da ata), indicando o motivo. (Aprovado na
-    [Reunião de 21/10/2014](Reunião de 21/10/2014))
-6.  As atas das reuniões do CMC devem ser bloqueadas após o fim da
+    acompanharem.
+4.  Justificativas de ausência devem ser registradas na pauta (rascunho
+    da ata), indicando o motivo.
+6.  As atas das reuniões do Conselho devem ser bloqueadas após o fim da
     respectiva reunião e qualquer alteração deve ser discutida na Lista
-    de Associados ou na reunião seguinte do CMC. As atas só podem ser
-    alteradas em reuniões do CMC. (Aprovado na
-    [Reunião de 18/04/2017](Reunião de 18/04/2017))
+    de Associados ou na reunião seguinte.
 
 Gestão financeira
 =================
@@ -151,59 +103,14 @@ Gestão financeira
 Reembolsos
 ----------
 
-1.  Reembolsos de despesas feitas em benefício do Garoa só serão
+1.  Reembolsos de despesas feitas em benefício do **LHC** só serão
     efetivados mediante apresentação de nota fiscal (não pode ser
-    recibo), envio de e-mail para pagamentos\@garoa.net.br e aval prévio
+    recibo), envio de e-mail para pagamentos\@lhc.net.br e aval prévio
     da Diretoria Executiva.
-2.  A nota fiscal deve ser emitida para o CNPJ do Garoa,
-    obrigatoriamente.
-3.  A diretoria tem autonomia para autorizar gastos de até R\$100, no
-    total, por mês. Gastos acima dessa quantida devem passar pelo CMC.
+2.  A nota fiscal deve ser emitida para o CNPJ do **LHC**, obrigatoriamente.
+3.  As diretorias executiva e financeira tem autonomia para autorizar gastos.
 4.  O prazo para pedido do reembolso é de um mês após a data de emissão
     da nota. Após esse período, o gasto não poderá ser reembolsado.
-
-Amigos do Garoa
----------------
-
-Aprovado na [Reunião de 18/07/2017](Reunião de 18/07/2017)
-
-O título de \"Amigos do Garoa\" é cedido aos interessados em contribuir
-espontaneamente com colaborações financeiras em forma de doações mensais
-em um valor de pelo menos R\$ 30 por mês.
-
-1.  Esta campanha somente se aplica a doações via Paypal.
-2.  Não há obrigatoriedade da doação ser concorrente, embora seja
-    recomendável que sim
-3.  O título de \"Amigos do Garoa\" não se equivale em status nem
-    benefícios ao título de associado e, portanto, não dá direito a
-    nenhum benefício previsto aos Associados Titulares.
-4.  \<strike\>Em troca desta colaboração espontânea, os colaboradores
-    concorrerão a um sorteio mensal de brindes, aonde um colaborador
-    será contemplado com um brinde (ou conjunto de brindes) no valor
-    aproximado de R\$ 25 O sorteio será realizado no CMC e o brinde deve
-    ser retirado no Garoa.\</strike\> (Revogado na Reunião de
-    21/08/2018)
-5.  O controle dessa ação deve ser feito Tesoureiro.
-
-GaroaFunding
-------------
-
-Aprovado na [Reunião de 19/08/2014](Reunião de 19/08/2014)
-
-O GaroaFunding, ou CrowdVaca ou GaroaLittleCow é uma forma de auxiliar o
-Garoa a adquirir bens (componentes, equipamentos, etc) de alto valor,
-com o apoio parcial de um financiamento coletivo. O Garoa entra com 50%
-do custo do equipamento se houver pessoas interessadas em colaborar com
-os outros 50% do valor.
-
-A intenção de compra (descrição do bem e valor) deve ser anunciada na
-lista pública, e todos são convidados a contribuir com o valor que
-puderem. O Garoa se compromete a comprar o equipamento se
-ascontribuições atingirem pelo menos 50% do valor orçado, e o Garoa irá
-pagar até 50% do restante necessário para comprar o item. Se as
-contribuições coletivas somarem mais de 50% do valor orçado, o Garoa
-pode optar por pagar menos ou comprar um equipamento mais completo ou
-mais caro.
 
 Gestão de Ativos
 ================
@@ -211,95 +118,67 @@ Gestão de Ativos
 Identificação de equipamentos
 -----------------------------
 
-Aprovado na [Reunião de 16/09/2014](Reunião de 16/09/2014).
+1.  Qualquer coisa no **LHC** que não estiver identificada, poderá ser 
+    usada em um projeto qualquer ou ser descartada sem
+    aviso prévio.
 
-\<strike\>Qualquer coisa no Garoa que não estiver identificada com
-etiquetas, conforme [Etiquetas para recursos](Etiquetas para recursos),
-poderá ser transformada num \'\'robô gigante\'\' (ver \"giant robot\" em
-[noisebridge:Community\_Standards](noisebridge:Community_Standards)),
-isto é, poderá ser usada em um projeto qualquer ou ser descartada sem
-aviso prévio. Resumindo: etiquete seus trecos!\</strike\> Revogado na
-[Reunião de 20/02/2018](Reunião de 20/02/2018)
-
-Equipamentos de uso complexo ou arriscado devem ser devidamente
-identificados, determinando que seu uso deve ser feito apenas por
-pessoas, preferencialmente associados, que sejam consideradas por algum
-associado como aptas a operá-los em segurança. Aprovado na
-[Reunião de 20/02/2018](Reunião de 20/02/2018)
+2.  Equipamentos de uso complexo ou arriscado devem ser devidamente
+    identificados, determinando que seu uso deve ser feito apenas por
+    pessoas, preferencialmente associados, que sejam consideradas por
+    algum associado como aptas a operá-los em segurança.
 
 Política de Recebimento de Doações
 ----------------------------------
 
-Apensado na [Reunião de 21/08/2018](Reunião de 21/08/2018).
-
 ### Sobre a Política
 
-O problema de falta de espaço no Garoa está agravando, conforme chegam
+O problema de falta de espaço no **LHC** está agravando, conforme chegam
 mais pessoas e objetos. Sempre aparecem pessoas querendo doar coisas
-para o Garoa, mas é importante deixarmos claro quais critérios devemos
+para o **LHC**, mas é importante deixarmos claro quais critérios devemos
 usar para decidir o que serve e o que não serve, de modo a evitar
 frustrações desnecessárias.
 
-Em virtude de nossa limitação de espaço, o Conselho Manda Chuva decidiu,
-na reunião de 16 de Agosto de 2011, criar esta Política de Recebimento
-de Doações para servir como diretriz para o recebimento de doações de
-materiais e objetos.
+Em virtude de nossa limitação de espaço, o Conselho decidiu criar esta 
+Política de Recebimento de Doações para servir como diretriz para o 
+recebimento de doações de materiais e objetos. Exceções podem ser estudadas 
+caso-a-caso.
 
-Exceções podem ser estudadas caso-a-caso pelo Diretor de Hardware.
-
-IMPORTANTE: O Garoa não é um local apropriado para descarte de
+IMPORTANTE: O **LHC** não é um local apropriado para descarte de
 eletrônicos
 
 ### Regras gerais
 
 1.  Qualquer oferta de doação deve ser comunicada previamente na lista,
-    e somente será aceita se um sócio do Garoa se responsabilizar por
+    e somente será aceita se um sócio se responsabilizar por
     dar um fim útil ao item a ser doado.
-    1.  Após o aceite, o sócio deve atualizar a página de
-        [doações](Lista_de_doações) do Garoa.
-    2.  Qualquer oferta de doação de livros e revistas tambem deve ser
-        perguntada previamente na lista do Garoa.
 2.  O processo de aceitação de doações ou prêmios em forma de Software
-    será prerrogativa do Diretor de Hardware, obedecendo aos seguintes
-    critérios [estabelecidos pelo CMC](Reunião de 11/05/2011):
+    será prerrogativa do Diretor Executivo, obedecendo aos seguintes
+    critérios:
     1.  Utilidade imediata ou potencial do software;
-    2.  Em caso de existir opção de software livre/aberto o Garoa irá
+    2.  Em caso de existir opção de software livre/aberto o **LHC** irá
         incentivar e dar preferência ao uso dessa, através de oficinas,
         projetos e concursos;
-    3.  Mesmo não existindo opção livre/aberta, o Garoa incentivará a
+    3.  Mesmo não existindo opção livre/aberta, o **LHC** incentivará a
         criação de grupos para trabalhar em suprir essa lacuna.
 
 As regras acima valem exceto quando se tratar de coisas de uso geral e
-pequeno porte (ex: peças, leds, fios, etc) ou itens descriminados na
-[Whitelist](Whitelist) de doações. Também deve ser respeitada as
-restrições constantes no [Blacklist](Blacklist).
+pequeno porte (ex: peças, leds, fios, etc) ou itens descriminados como
+de doações.
 
 Política de Descartes
 ---------------------
 
-Aprovado na [Reunião de 21/08/2018](Reunião de 21/08/2018).
-
--   Itens podem ser adicionados ao [Vortex of Doom](Vortex of Doom)
-    somente entre os dias 1 e 10 de cada mês;
--   No último dia do mês tudo que estiver no Vortex será descartado.
-    \'\'\'(precisamos indicar um ou mais responsáveis por executar esse
-    descarte mensal)\'\'\';
--   Nesse período entre o dia 11 e o último dia do mês, os associados
-    que tiverem interesse podem pegar itens do Vortex para uso próprio;
--   Qualquer descarte ou doação para terceiros de itens do clube que não
-    tenham passado pelo processo descrito acima, no Vortex of Doom,
-    precisa passar por consulta ao CMC ou, em caso de urgência, consulta
-    ao Diretor de Hardware.
+-   Qualquer descarte ou doação para terceiros de itens do **LHC** que não
+    tenham passado pelo processo descrito acima, precisa passar por consulta 
+    aos Diretores e ao Conselho.
 
 Assuntos diversos
 =================
 
-Moderação na lista pública do Garoa
------------------------------------
+Moderação na lista pública do LHC 
+---------------------------------
 
-Aprovado na [Reunião de 21/06/2016](Reunião de 21/06/2016)
-
-A moderação de mensagens na lista pública do Garoa deve seguir as
+A moderação de mensagens na lista pública do **LHC** deve seguir as
 seguintes regras:
 
 1.  As primeiras mensagens de novos participantes na lista pública serão
@@ -307,25 +186,21 @@ seguintes regras:
 2.  Todo o moderador da lista pode decidir moderar quem quiser, no
     momento que quiser, e todos os demais moderadores podem retirar a
     moderação de qualquer pessoa quando acharem necessários.
-3.  Compete ao CMC decidir quem serão os moderadores.
+3.  Compete ao Conselho decidir quem serão os moderadores.
 
-Regras de uso dos grupos de Telegram do Garoa
----------------------------------------------
+Regras de uso dos grupos de comunicação instantânea 
+---------------------------------------------------
 
-Aprovado na [Reunião de 21/08/2018](Reunião de 21/08/2018)
-
--   Será considerado um grupo \"oficial\" do Garoa em aplicativos de
-    comunicação instantânea (ex.: Telegram) os grupos que demonstrem
+-   Será considerado um grupo oficial do **LHC** em aplicativos de
+    comunicação instantânea (ex.: Whatsapp, Telegram) os grupos que demonstrem
     vinculo institucional através de referência ao nome e/ou logotipo do
-    Garoa;
+    **LHC**;
 -   Os grupos em meios de comunicação instantânea devem ser
-    administrados por associados do Garoa;
+    administrados por associados do **LHC**;
 -   Os grupos devem ter moderação, e esta monitoração será regida pelos
-    [princípios estatutários](Estatuto) do clube, respeitando o
-    Regimento Interno e o [Código de Conduta](Código de Conduta);
+    princípios estatutários, respeitando o
+    Regimento Interno e o Código de Conduta;
 -   Não serão toleradas mensagens de ódio, violência e/ou sexismo;
 -   A administração do grupo deve ser passada adiante a outros
     administradores caso o dono/admin atual perca o interesse em
     continuar cuidando do grupo.
-
-[Categoria:Garoa](Categoria:Garoa)[Categoria:Meta](Categoria:Meta)
