@@ -260,7 +260,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, A Presidência, o Conselho, a Diretoria Fiscal e a Diretoria
+    entre si, A Diretoria Executiva, o Conselho, a Diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17º
@@ -320,8 +320,8 @@ forma especificada no [Regimento Interno](Regimento Interno).
 Artigo 21º
 ----------
 
-A Assembleia Geral reunir-se-á ordinariamente uma vez a cada 04 (quatro) anos, 
-até o dia 31 de março, e extraordinariamente, quando convocada pelo Presidente ou 
+A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, até o dia 31 
+de março, e extraordinariamente, quando convocada pelo Presidente ou 
 Diretoria Executiva, pelo Chefe do Conselho, pela Diretoria Fiscal, ou
 ainda ao menos 1/5 (um quinto) dos Associados Efetivos, que subscreverão
 e especificarão os motivos da convocação.
