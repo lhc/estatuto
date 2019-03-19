@@ -658,8 +658,8 @@ Ordinária, por candidatura individual a cada cargo, para mandatos de
     eleições poderá votar em apenas um candidato para cada cargo.
 -   Parágrafo 5º - serão declarados eleitos os 02 (dois) primeiros
     colocados na eleição para cada cargo, exceto Chefe do Conselho.
--   Parágrafo 6º - será declarado eleito Chefe do Conselho
-    o candidato que receber o maior número de votos.
+~~- Parágrafo 6º - será declarado eleito Chefe do Conselho
+    o candidato que receber o maior número de votos.~~
 
 
 Artigo 38º
