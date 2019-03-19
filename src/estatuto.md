@@ -46,7 +46,7 @@ O **LHC** tem como princípios:
 1.  o acesso livre e universal ao conhecimento gerado sob suas
     premissas;
 2.  o financiamento de suas atividades majoritariamente por seus
-    próprios Associados ou através de doações; e
+    próprios Associados; e
 3.  a garantia da livre iniciativa de seus Associados na proposição e
     execução de projetos individuais ou coletivos.
 
