@@ -363,7 +363,11 @@ no máximo 42 (quarenta e dois) Associados Efetivos.
     por **Membros do Conselho**.
 
 -   Parágrafo 2º - O Conselho será presidido pelo Chefe do Conselho,
-    que por sua vez será eleito em Assembléia apropriada.
+    eleito por maioria simples pelos Membros do Conselho com mandato
+    de 01 (um) ano sendo permitida a recondução.
+
+-   Parágrafo 3º - O Chefe do Conselho não poderá ocupar cargo na Diretoria
+    Executiva.
 
 Artigo 23º
 ----------
@@ -437,13 +441,9 @@ Efetivos.
     deverá contar com a presença mínima de 07 (sete)
     conselheiros ou 1/5 (um quinto) deles, o que for maior.
 
-<!-- -->
-
 -   Parágrafo 2º - As reuniões ordinárias do Conselho deverão ocorrer,
     no mínimo, uma vez a cada 03 (três) meses e não mais que uma vez por
     semana.
-
-<!-- -->
 
 -   Parágrafo 3º - As reuniões extraordinárias do Conselho deverão ser
     convocadas com no mínimo 05 (cinco) dias úteis de antecedência, na
