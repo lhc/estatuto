@@ -487,10 +487,10 @@ Artigo 28º
 A Presidência do **LHC** é o órgão que representa o **LHC** ativa e passivamente
 perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais, 
 em juízo ou fora dele, podendo delegar poderes e constituir advogados ou 
-procuradores para o fim que julgar necessário. A Presidência do **LHC**
+procuradores para o fim que julgar necessário. ~~A Presidência do **LHC**
 será composto por 02 (dois) membros eleitos pela Assembleia Geral e por ordem
 de votos recebidos, sendo o primeiro mais bem votado designado de presidente,
-e o segundo assumindo a vice-presidência.
+e o segundo assumindo a vice-presidência.~~
 
 Artigo 29º
 ----------
