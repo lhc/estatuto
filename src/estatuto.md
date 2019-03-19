@@ -260,7 +260,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, A Presidência, o Conselho, a Diretoria Fiscal e a Diretoria
+    entre si, o Conselho, a Diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17º
