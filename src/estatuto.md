@@ -154,7 +154,7 @@ São DIREITOS dos Associados:
 1.  gozar dos benefícios oferecidos pelo **LHC** na forma prevista
     neste Estatuto Social e no [Regimento Interno](Regimento Interno);
 2.  recorrer à Assembleia Geral contra qualquer ato da Presidência, 
-    da Diretoria Executiva, da Diretoria Fiscal, do Conselho; e
+    da Diretoria Executiva, da Diretoria Fiscal, da **LNLS**; e
 3.  estar presente e tomar a voz em reunião de qualquer órgão
     deliberativo ou administrativo do **LHC**.
 
@@ -167,7 +167,7 @@ São DEVERES dos Associados:
     [Código de Conduta](Código de Conduta) e o
     [Regimento Interno](Regimento Interno);
 2.  respeitar e cumprir as decisões da Assembleia Geral,
-    da Presidência, do Conselho e das Diretorias Fiscal e 
+    da Presidência, da **LNLS** e das Diretorias Fiscal e
     Executiva;
 3.  zelar pelo bom nome do **LHC**;
 4.  defender o patrimônio e os interesses do **LHC**;
@@ -179,8 +179,8 @@ São DIREITOS exclusivos dos Associados Efetivos:
 
 1.  votarem e serem votados em Assembleia Geral;
 2.  candidatarem-se para os cargos da Presidência, da Diretoria Executiva,
-    da Diretoria Fiscal e de Conselheiro Chefe;
-3.  requerer mandato no Conselho, conforme disposto no
+    da Diretoria Fiscal e de Chefe da **LNLS**;
+3.  requerer mandato no LNLS, conforme disposto no
     artigo 23º; e
 4.  livre acesso a todos os arquivos, documentos e instalações do **LHC**. 
 
@@ -209,7 +209,7 @@ Artigo 12º
 A admissão dos Associados dar-se-á de forma independente de classe
 social, nacionalidade, sexo, raça, cor e crença religiosa - ou a falta
 destas - e, para seu ingresso, o interessado deverá submeter sua
-proposta de admissão para apreciação do Conselho, de acordo
+proposta de admissão para apreciação da **LNLS**, de acordo
 com os critérios definidos no [Regimento Interno](Regimento Interno).
 
 -   Parágrafo 1º - O título de Associado é pessoal e intransmissível.
@@ -221,7 +221,7 @@ Artigo 13º
 ----------
 
 É direito do Associado demitir-se quando julgar necessário,
-protocolando, junto ao Conselho, seu pedido de demissão.
+protocolando, junto à LNLS, seu pedido de demissão.
 
 Artigo 14º
 ----------
@@ -234,12 +234,12 @@ ou justa causa, sendo esta última cabível nas seguintes hipóteses:
 2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**; 
 3.  difamação do **LHC** ou de seus Associados;
 4.  prática de ato que contrarie decisões de Assembleias, Presidência, 
-    Diretorias e Conselhos;
+    Diretorias e **LNLS**;
 5.  não pagamento de 02 (duas) parcelas consecutivas das contribuições
     associativas.
 
 -   Parágrafo único - A perda da qualidade de Associado por justa causa
-    será determinada pelo Conselho, cabendo recurso da
+    será determinada pela **LNLS**, cabendo recurso da
     decisão à Assembleia Geral, unicamente convocada para este fim,
     sendo garantida a ampla defesa em todas as instâncias.
 
@@ -260,7 +260,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, A Diretoria Executiva, o Conselho, a Diretoria Fiscal e a Diretoria
+    entre si, A Diretoria Executiva, a **LNLS**, a Diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17º
@@ -269,12 +269,12 @@ Artigo 17º
 Compete privativamente à Assembleia Geral:
 
 1.  eleger a Presidência, a Diretoria Executiva, a Diretoria Fiscal e o
-    Chefe do Conselho;
+    Chefe da **LNLS**;
 2.  deliberar sobre a compra ou alienação de bens imóveis;
 3.  deliberar sobre a celebração de convênios, aquisições ou contratos
     com valor superior a 25 salários mínimos;
 4.  destituir a Presidência, a Diretoria Executiva e a Diretoria Fiscal, 
-    inteiramente ou seus membros, assim como o Chefe do Conselho;
+    inteiramente ou seus membros, assim como o Chefe da **LNLS**;
 5.  alterar o Estatuto Social;
 6.  deliberar quanto à dissolução da Associação; e
 7.  decidir em última instância.
@@ -322,13 +322,13 @@ Artigo 21º
 
 A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, até o dia 31 
 de março, e extraordinariamente, quando convocada pelo Presidente ou 
-Diretoria Executiva, pelo Chefe do Conselho, pela Diretoria Fiscal, ou
+Diretoria Executiva, pelo Chefe da **LNLS**, pela Diretoria Fiscal, ou
 ainda ao menos 1/5 (um quinto) dos Associados Efetivos, que subscreverão
 e especificarão os motivos da convocação.
 
 -   Parágrafo 1º - A Assembleia Geral Ordinária ocorrerá anualmente e
     deverá deliberar, quando cabível, sobre a eleição do Presidente, 
-    Diretorias Executiva e Fiscal, e o Chefe do Conselho, além de 
+    Diretorias Executiva e Fiscal, e o Chefe da **LNLS**, além de
     aprovar a prestação de contas do exercício social findo e a 
     previsão orçamentária do exercício entrante.
 -   Parágrafo 2º - A Assembleia Geral será convocada mediante edital
@@ -345,51 +345,52 @@ e especificarão os motivos da convocação.
     ata dos trabalhos seja assinada somente pelos integrantes da mesa,
     desde que assinada a lista de presença pelos Associados presentes.
 
-Capítulo IV - DO CONSELHO 
-==========================
+Capítulo IV - DA LIGA NORTEADORA DO LHC E SISTEMATIZAÇÃO (LNLS)
+================================================================
 
 Artigo 22º
 ----------
 
-O Conselho é o órgão deliberativo responsável pela política
+A Liga Norteadora do LHC e Sistematização (LNLS)
+é o órgão deliberativo responsável pela política
 a ser observada pelo **LHC**, tanto na consecução de seus objetivos
 sociais como no planejamento financeiro e no desenvolvimento das
 relações do **LHC** com o corpo social, com a sociedade civil e com
 pessoas físicas ou jurídicas com as quais mantenha ou venha a manter
-vínculos de qualquer natureza e será composto por no mínimo 03 (três) e
+vínculos de qualquer natureza e será composta por no mínimo 03 (três) e
 no máximo 42 (quarenta e dois) Associados Efetivos.
 
--   Parágrafo 1º - Os membros do Conselho serão designados
-    por **Membros do Conselho**.
+-   Parágrafo 1º - Os membros da **LNLS** serão designados
+    por **Membros da **LNLS**.
 
--   Parágrafo 2º - O Conselho será presidido pelo Chefe do Conselho,
+-   Parágrafo 2º - A **LNLS** será presidida pelo Chefe da **LNLS**,
     que por sua vez será eleito em Assembléia apropriada.
 
 Artigo 23º
 ----------
 
-Poderá ocupar o cargo de **Membro do Conselho** qualquer Associado Efetivo,
-mediante requisição por escrito ao Chefe do Conselho, que deverá ser
+Poderá ocupar o cargo de **Membro da LNLS** qualquer Associado Efetivo,
+mediante requisição por escrito ao Chefe da **LNLS**, que deverá ser
 automaticamente aceita e registrada.
 
 -   Parágrafo 1º - Terá seu mandato automaticamente revogado o
-    Membro do Conselho que ausentar-se de 03 (três) ou mais reuniões sem
+    Membro da **LNLS** que ausentar-se de 03 (três) ou mais reuniões sem
     justificativa aceita pelo plenário. As ausências não justificadas
     serão abonadas anualmente, na data de realização da Assembleia Geral
     Ordinária.
 
 -   Parágrafo 2º - Para efeitos de computação de *quorum*, não
-    serão considerados os Membros do Conselho com mandato revogado ou com
+    serão considerados os Membros da **LNLS** com mandato revogado ou com
     justificativa de ausência aceita pelo plenário.
 
--   Parágrafo 3º - O Membro do Conselho cujo mandato seja revogado por não
+-   Parágrafo 3º - O Membro da **LNLS** cujo mandato seja revogado por não
     comparecimento poderá requerer o reingresso ao plenário passadas ao
     menos 03 (três) reuniões ordinárias da data de revogação.
 
 Artigo 24º
 ----------
 
-Compete ao Conselho:
+Compete à LNLS:
 
 1.  estabelecer as diretrizes básicas e planos de ação do **LHC**;
 2.  zelar pela observância do Estatuto e cumprir as decisões da
@@ -403,7 +404,7 @@ Compete ao Conselho:
     e a anuência da Presidência;
 6.  decidir sobre a participação institucional do **LHC** em eventos
     externos;
-7.  manifestar-se, através do Chefe do Conselho, por qualquer meio de
+7.  manifestar-se, através do Chefe da **LNLS**, por qualquer meio de
     comunicação, em nome do **LHC**, sobre assunto de interesse
     público;
 8.  proceder à indicação de membro interino da Diretoria Fiscal ou da
@@ -427,56 +428,56 @@ Compete ao Conselho:
 Artigo 25º
 ----------
 
-O Conselho reunir-se-á ordinariamente, com periodicidade
+A **LNLS** reunir-se-á ordinariamente, com periodicidade
 estabelecida no Regimento Interno, ou extraordinariamente, por
-solicitação do Chefe do Conselho, da Diretoria Executiva ou por
+solicitação do Chefe da LNLS, da Diretoria Executiva ou por
 requerimento subscrito por, no mínimo, um quinto (1/5) dos Associados
 Efetivos.
 
--   Parágrafo 1º - Para sua instalação, a reunião do Conselho
+-   Parágrafo 1º - Para sua instalação, a reunião da LNLS
     deverá contar com a presença mínima de 07 (sete)
-    conselheiros ou 1/5 (um quinto) deles, o que for maior.
+    membros ou 1/5 (um quinto) deles, o que for maior.
 
 <!-- -->
 
--   Parágrafo 2º - As reuniões ordinárias do Conselho deverão ocorrer,
+-   Parágrafo 2º - As reuniões ordinárias da **LNLS** deverão ocorrer,
     no mínimo, uma vez a cada 03 (três) meses e não mais que uma vez por
     semana.
 
 <!-- -->
 
--   Parágrafo 3º - As reuniões extraordinárias do Conselho deverão ser
+-   Parágrafo 3º - As reuniões extraordinárias da **LNLS** deverão ser
     convocadas com no mínimo 05 (cinco) dias úteis de antecedência, na
     forma estabelecida pelo Regimento Interno.
 
 Artigo 26º
 ----------
 
-Compete ao Chefe do Conselho:
+Compete ao Chefe da **LNLS**:
 
-1.  presidir as reuniões do Conselho;
-2.  indicar um conselheiro que o substitua em sua ausência;
-3.  receber e registrar requisições de ingresso no Conselho;
-4.  realizar o controle de presença dos membros do Conselho;
-5.  representar o Conselho perante outras instâncias deliberativas e
+1.  presidir as reuniões da **LNLS**;
+2.  indicar um membro que o substitua em sua ausência;
+3.  receber e registrar requisições de ingresso na **LNLS**;
+4.  realizar o controle de presença dos membros da **LNLS**;
+5.  representar a **LNLS** perante outras instâncias deliberativas e
     administrativas do **LHC**;
 6.  cumprir e fazer cumprir as decisões da Assembléia Geral, desse Estatuto,
     do Regimento interno e o Código de Conduta.
 
-Parágrafo único - na ausência do Chefe do Conselho e de seu substituto,
-o Conselho do **LHC** deve ser presidido interinamente por um
-um membro do conselho eleito pela maioria simples dos votos dos presentes, 
+Parágrafo único - na ausência do Chefe da **LNLS** e de seu substituto,
+a Liga Norteadora do **LHC** e Sistematização deve ser presidida interinamente por um
+um membro da **LNLS** eleito pela maioria simples dos votos dos presentes,
 desde que este não ocupe cargo eletivo no **LHC**.
 
 Artigo 27º
 ----------
 
-As decisões do Conselho serão tomadas por maioria simples,
+As decisões da **LNLS** serão tomadas por maioria simples,
 cabendo apenas um voto a cada membro presente.
 
 -   Parágrafo único - Em caso de empate na votação, a matéria deverá ser
     postergada até a próxima reunião ordinária. Persistindo o empate, o
-    Chefe do Conselho terá direito ao Voto de Minerva.
+    Chefe da **LNLS** terá direito ao Voto de Minerva.
 
 Capítulo V - DA PRESIDÊNCIA
 ===========================
@@ -488,7 +489,7 @@ A Presidência do **LHC** é o órgão que representa o **LHC** ativa e passivam
 perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais, 
 em juízo ou fora dele, podendo delegar poderes e constituir advogados ou 
 procuradores para o fim que julgar necessário. A Presidência do **LHC**
-será composto por 02 (dois) membros eleitos pela Assembleia Geral e por ordem
+será composta por 02 (dois) membros eleitos pela Assembleia Geral e por ordem
 de votos recebidos, sendo o primeiro mais bem votado designado de presidente,
 e o segundo assumindo a vice-presidência.
 
@@ -501,7 +502,7 @@ Compete à Presidência:
 2.  convocar a Assembleia Geral, conforme o disposto no Artigo 21º;
 3.  organizar um relatório contendo balanço do exercício financeiro e 
     os principais eventos do ano anterior, apresentando-o anualmente 
-    ao Conselho;
+    à **LNLS**;
 4.  representar o **LHC** perante outras entidades públicas ou privadas 
     externas, quando requisitado por estas, ou ainda em eventos, 
     premiações e comemorações oficiais; e
@@ -541,7 +542,7 @@ seguintes atribuições:
 1.  examinar os livros de escrituração do **LHC**;
 2.  opinar e dar pareceres sobre planejamentos, balanços e relatórios
     financeiro e contábil apresentados pela Diretoria Executiva,
-    submetendo-os ao Conselho e à Assembleia Geral;
+    submetendo-os à **LNLS** e à Assembleia Geral;
 3.  Disponibilizar, a qualquer tempo, documentação
     comprobatória das operações financeiras realizadas pelo **LHC**;
 4.  acompanhar o trabalho de eventuais auditores externos independentes
@@ -557,14 +558,14 @@ seguintes atribuições:
     estipulados pelo [Regimento Interno](Regimento Interno);
 8.  supervisionar o trabalho de assessorias de tesouraria ou
     contabilidade que venham a ser contratadas;
-9.  apresentar ao Conselho, anualmente e sempre que solicitado,
+9.  apresentar à **LNLS**, anualmente e sempre que solicitado,
     balancetes fiscais e financeiros; e
 10. substituir o Presidente em suas eventuais faltas e impedimentos.
 
 -   Parágrafo 1º - Os membros da Diretoria Fiscal serão eleitos em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
     deste Estatuto.
--   Parágrafo 2º - Os mandatos da Direotira Fiscal terão duração de 02
+-   Parágrafo 2º - Os mandatos da Diretoria Fiscal terão duração de 02
     (dois) anos, sendo permitida a recondução ao cargo em eleição.
 
 Artigo 31º
@@ -573,7 +574,7 @@ Artigo 31º
 A Diretoria Fiscal reunir-se-á ao menos duas vezes ao ano, sendo uma
 delas a não mais que duas semanas do final do exercício social, em sua
 maioria absoluta, em caráter ordinário e, extraordinariamente, sempre
-que convocado pelo Conselho, ou pela maioria dos seus membros.
+que convocado pela **LNLS**, ou pela maioria dos seus membros.
 
 Artigo 32º
 ----------
@@ -595,14 +596,14 @@ Artigo 34º
 ----------
 
 A Diretoria Executiva é o órgão responsável pela administração do 
-**LHC** e pela implementação da política estabelecida pelo Conselho.
+**LHC** e pela implementação da política estabelecida pela **LNLS**.
 
 Artigo 35º
 ----------
 
 A Diretoria Executiva será composta por 02 (dois) membros, e 
 reunir-se-á sempre que houver convocação do Presidente ou sempre 
-que convocado pelo Conselho, ou pela maioria dos seus membros.
+que convocado pela **LNLS**, ou pela maioria dos seus membros.
 
 -   Parágrafo 1º - Os membros da Diretoria Executiva serão eleitos em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
@@ -616,15 +617,15 @@ Artigo 36º
 Compete à Diretoria Executiva:
 
 1.  administrar o **LHC** e seu patrimônio de acordo com o presente
-    Estatuto e implementando as deliberações da Assembleia Geral e do
-    Conselho, promovendo o bem geral da entidade e dos Associados;
+    Estatuto e implementando as deliberações da Assembleia Geral e da
+    **LNLS**, promovendo o bem geral da entidade e dos Associados;
 2.  cumprir e fazer cumprir o presente Estatuto;
 4.  representar e defender os interesses dos Associados;
 5.  zelar pelo cumprimento do orçamento anual, e pela lisura das
     operações e demonstrações financeiras;
 6.  apresentar à Assembleia Geral Ordinária o relatório de sua gestão, e
     prestar contas referentes ao exercício financeiro;
-7.  comparecer às reuniões do Conselho, de modo a promover a
+7.  comparecer às reuniões da **LNLS**, de modo a promover a
     sinergia entre os dois órgãos;
 8.  registrar aquisições e doações ao **LHC**;
 9.  zelar pela conservação do patrimônio e da infraestrutura do  **LHC**;
@@ -642,7 +643,7 @@ Artigo 37º
 ----------
 
 As eleições para a Presidência, Diretoria Executiva, Diretoria Fiscal 
-e Chefe do Conselho realizar-se-ão conjuntamente, em Assembleia Geral 
+e Chefe da **LNLS** realizar-se-ão conjuntamente, em Assembleia Geral
 Ordinária, por candidatura individual a cada cargo, para mandatos de 
 02 (dois) anos.
 
@@ -653,12 +654,12 @@ Ordinária, por candidatura individual a cada cargo, para mandatos de
     aos cargos da Diretoria Executiva.
 -   Parágrafo 3º - será permitido a cada Associado elegível a
     apresentação de apenas uma candidatura para a Diretoria Executiva ou
-    uma candidatura para o Conselho Fiscal.
+    uma candidatura para a Diretoria Fiscal.
 -   Parágrafo 4º - cada Associado Efetivo presente na ocasião das
     eleições poderá votar em apenas um candidato para cada cargo.
 -   Parágrafo 5º - serão declarados eleitos os 02 (dois) primeiros
-    colocados na eleição para cada cargo, exceto Chefe do Conselho.
--   Parágrafo 6º - será declarado eleito Chefe do Conselho
+    colocados na eleição para cada cargo, exceto Chefe da **LNLS**.
+-   Parágrafo 6º - será declarado eleito Chefe da **LNLS**
     o candidato que receber o maior número de votos.
 
 
@@ -686,7 +687,7 @@ do término dos mandatos correntes.
 Artigo 39º
 ----------
 
-Estarão sujeitos à perda do mandato o Presidente, o Chefe do Conselho, 
+Estarão sujeitos à perda do mandato o Presidente, o Chefe da **LNLS**,
 os membros da Diretoria Executiva e da Diretoria Fiscal que incorrerem em:
 
 1.  malversação ou dilapidação do patrimônio social;
@@ -705,7 +706,7 @@ o cargo será preenchido interinamente, até o final do mandato,
 por Associado Efetivo elegível indicado.
 
 -   Parágrafo único - ocorrendo renúncia ou destituição de mais da
-    metade dos membros eletivos, o Conselho deverá, imediatamente, 
+    metade dos membros eletivos, a **LNLS** deverá, imediatamente,
     convocar uma Assembleia Geral Extraordinária que elegerá os membros 
     faltantes. Os eleitos nestas condições ocuparão os cargos dos 
     renunciantes ou destituídos até o término dos mandatos interrompidos.
@@ -744,7 +745,7 @@ cujas atuações são inteiramente gratuitas e de caráter voluntário, sendo ta
 vedada a distribuição de rendas, lucros ou bonificações, sob qualquer forma ou 
 pretexto, exceto quando na forma de reembolsos por despesas efetuadas em 
 benefício do **LHC**, com o devido aval da Diretoria Executiva, posteriormente 
-referendado pelo Conselho.
+referendado pela **LNLS**.
 
 Artigo 44º
 ----------
@@ -775,15 +776,15 @@ Artigo 46º
 ----------
 
 As finanças do **LHC** serão regidas pela previsão orçamentária anual,
-apresentadas pela Diretoria Fiscal, elaborada e aprovada pelo Conselho
+apresentadas pela Diretoria Fiscal, elaborada e aprovada pela **LNLS**
 e referendada pela Assembleia Geral Ordinária.
 
 Artigo 47º
 ----------
 
-A Diretoria Fiscal disponibilizará eletronicamente relatórios financeiros ao
-Conselho e demais membros do **LHC**. A prestação de contas do
-exercício findo deverá ser submetido anualmente à apreciação do Conselho
+A Diretoria Fiscal disponibilizará eletronicamente relatórios financeiros à
+**LNLS** e demais membros do **LHC**. A prestação de contas do
+exercício findo deverá ser submetido anualmente à apreciação da **LNLS**
 e da Assembleia Geral.
 
 Capítulo XI - DAS DISPOSIÇÕES GERAIS
@@ -815,7 +816,7 @@ Capítulo XII - DAS DISPOSIÇÕES TRANSITÓRIAS
 Artigo 50º
 ----------
 
-A Assembleia de Fundação indicará a Presidência, o Chefe do Conselho, 
+A Assembleia de Fundação indicará a Presidência, o Chefe da **LNLS**,
 os membros da  primeira Diretoria Executiva e da primeira Diretoria Fiscal, 
 para exercer mandato válido até 31/12/2022; e determinará o valor do 
 aporte patrimonial a ser efetuado pelos Associados Fundadores.
@@ -824,8 +825,8 @@ Artigo 51º
 ----------
 
 Imediatamente após a Assembleia de Fundação do **LHC**, todos os
-Associados Efetivos poderão manifestar desejo de ingressar no
-Conselho, que terá a obrigação de revisar o
+Associados Efetivos poderão manifestar desejo de ingressar na **LNLS**,
+que terá a obrigação de revisar o
 [Regimento Interno](Regimento Interno) e o
 [Código de Conduta](Código de Conduta) no prazo de 120 dias após
 a data constante em Ata de Fundação.
