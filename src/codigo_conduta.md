@@ -59,6 +59,7 @@ Comportamento Esperado
 -   Espaços de eventos comunitários podem ser compartilhados com membros
     do público; por gentileza, seja respeitoso com todos as pessoas que
     estejam presentes nesses locais.
+-   Bom senso.
 
 Comportamentos Inaceitáveis
 ---------------------------
@@ -77,6 +78,10 @@ representações inapropriadas de violência; intimidação deliberada,
 perseguir ou importunar; fotografar ou gravar de modo abusivo;
 perturbação repetida de conversas ou outros eventos; contato físico ou
 visual inapropriado, ou abordagem sexual.
+
+Descomprimento do código de conduta.
+
+Importunar o grupo ou um membro que esteja trabalhando em pró do LHC. 
 
 Consequências do comportamento inaceitável
 ------------------------------------------
