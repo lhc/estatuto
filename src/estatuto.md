@@ -650,7 +650,7 @@ Ordinária, por candidatura individual a cada cargo, para mandatos de
 -   Parágrafo 1º - caberá ao Secretário receber antecipadamente as
     fichas de inscrição dos candidatos.
 -   Parágrafo 2º - apenas Associados Titulares que tenham sido admitidos
-    ao quadro social há mais de 02 (dois) anos poderão candidatar-se
+    ao quadro social há mais de 01 (um) ano poderão candidatar-se
     aos cargos da Diretoria Executiva.
 -   Parágrafo 3º - será permitido a cada Associado elegível a
     apresentação de apenas uma candidatura para a Diretoria Executiva ou
