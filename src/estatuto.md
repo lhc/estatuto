@@ -233,10 +233,9 @@ ou justa causa, sendo esta última cabível nas seguintes hipóteses:
 1.  descumprimento deste Estatuto Social, do Código de Conduta ou do
     Regimento Interno;
 2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**; 
-3.  difamação do **LHC** ou de seus Associados;
-4.  prática de ato que contrarie decisões de Assembleias, Presidência, 
+3.  prática de ato que contrarie decisões de Assembleias, Presidência, 
     Diretorias e Conselhos;
-5.  não pagamento de 02 (duas) parcelas consecutivas das contribuições
+4.  não pagamento de 02 (duas) parcelas consecutivas das contribuições
     associativas.
 
 -   Parágrafo único - A perda da qualidade de Associado por justa causa
