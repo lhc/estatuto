@@ -27,7 +27,7 @@ ele se associem e também ao público em geral, regida pelo presente
 Estatuto Social e legislação aplicável.
 
 -   Parágrafo único - O **LHC** foi simbolicamente fundado no dia 12 
-    de Outubro de 2011, data das festividades de anivérsário. A 
+    de Outubro de 2011, data das festividades de aniversário. A 
     Associação Mantenedora do **LHC** existe desde a data de aprovação
     do presente Estatuto e tem prazo de duração indeterminado.
 
@@ -46,7 +46,7 @@ O **LHC** tem como princípios:
 1.  o acesso livre e universal ao conhecimento gerado sob suas
     premissas;
 2.  o financiamento de suas atividades majoritariamente por seus
-    próprios Associados ou através de doações; e
+    próprios Associados; e
 3.  a garantia da livre iniciativa de seus Associados na proposição e
     execução de projetos individuais ou coletivos.
 
@@ -261,7 +261,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, A Presidência, o Conselho, a Diretoria Fiscal e a Diretoria
+    entre si, A Diretoria Executiva, o Conselho, a Diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17º
@@ -321,8 +321,8 @@ forma especificada no [Regimento Interno](Regimento Interno).
 Artigo 21º
 ----------
 
-A Assembleia Geral reunir-se-á ordinariamente uma vez a cada 04 (quatro) anos, 
-até o dia 31 de março, e extraordinariamente, quando convocada pelo Presidente ou 
+A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, até o dia 31 
+de março, e extraordinariamente, quando convocada pelo Presidente ou 
 Diretoria Executiva, pelo Chefe do Conselho, pela Diretoria Fiscal, ou
 ainda ao menos 1/5 (um quinto) dos Associados Efetivos, que subscreverão
 e especificarão os motivos da convocação.
@@ -364,7 +364,7 @@ no máximo 42 (quarenta e dois) Associados Efetivos.
     por **Membros do Conselho**.
 
 -   Parágrafo 2º - O Conselho será presidido pelo Chefe do Conselho,
-    que por sua vez será eleito em Assembléia apropriada.
+    que por sua vez será eleito em Assembleia apropriada.
 
 Artigo 23º
 ----------
@@ -461,7 +461,7 @@ Compete ao Chefe do Conselho:
 4.  realizar o controle de presença dos membros do Conselho;
 5.  representar o Conselho perante outras instâncias deliberativas e
     administrativas do **LHC**;
-6.  cumprir e fazer cumprir as decisões da Assembléia Geral, desse Estatuto,
+6.  cumprir e fazer cumprir as decisões da Assembleia Geral, desse Estatuto,
     do Regimento interno e o Código de Conduta.
 
 Parágrafo único - na ausência do Chefe do Conselho e de seu substituto,
@@ -526,7 +526,7 @@ Compete à Presidência:
     reuniõese, assim como outros documentos que signifiquem compromisso formal do 
     **LHC**; e,
 15. cumprir outras atribuições que venham a ser estabelecidas por aprovação da 
-    Assembléia Geral ou do Regimento Interno.
+    Assembleia Geral ou do Regimento Interno.
 
 
 Capítulo VI - DA DIRETORIA FISCAL
@@ -565,7 +565,7 @@ seguintes atribuições:
 -   Parágrafo 1º - Os membros da Diretoria Fiscal serão eleitos em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
     deste Estatuto.
--   Parágrafo 2º - Os mandatos da Direotira Fiscal terão duração de 02
+-   Parágrafo 2º - Os mandatos da Diretoria Fiscal terão duração de 02
     (dois) anos, sendo permitida a recondução ao cargo em eleição.
 
 Artigo 31º
