@@ -27,7 +27,7 @@ ele se associem e também ao público em geral, regida pelo presente
 Estatuto Social e legislação aplicável.
 
 -   Parágrafo único - O **LHC** foi simbolicamente fundado no dia 12 
-    de Outubro de 2011, data das festividades de anivérsário. A 
+    de Outubro de 2011, data das festividades de aniversário. A 
     Associação Mantenedora do **LHC** existe desde a data de aprovação
     do presente Estatuto e tem prazo de duração indeterminado.
 
@@ -130,7 +130,7 @@ distintos em três categorias:
 
 1.  Associado Fundador: aquele que tenha participado da Assembleia de
     Fundação do **LHC**, tendo realizado o aporte patrimonial
-    determinado nesta Assembléia.
+    determinado nesta Assembleia.
 2.  Associado Titular: pessoa física que tenha sua proposta de
     associação aprovada por instância competente;
 3.  Associado Honorário: título simbólico concedido a pessoa de notório
@@ -363,7 +363,7 @@ no máximo 42 (quarenta e dois) Associados Efetivos.
     por **Membros do Conselho**.
 
 -   Parágrafo 2º - O Conselho será presidido pelo Chefe do Conselho,
-    que por sua vez será eleito em Assembléia apropriada.
+    que por sua vez será eleito em Assembleia apropriada.
 
 Artigo 23º
 ----------
@@ -460,7 +460,7 @@ Compete ao Chefe do Conselho:
 4.  realizar o controle de presença dos membros do Conselho;
 5.  representar o Conselho perante outras instâncias deliberativas e
     administrativas do **LHC**;
-6.  cumprir e fazer cumprir as decisões da Assembléia Geral, desse Estatuto,
+6.  cumprir e fazer cumprir as decisões da Assembleia Geral, desse Estatuto,
     do Regimento interno e o Código de Conduta.
 
 Parágrafo único - na ausência do Chefe do Conselho e de seu substituto,
@@ -525,7 +525,7 @@ Compete à Presidência:
     reuniõese, assim como outros documentos que signifiquem compromisso formal do 
     **LHC**; e,
 15. cumprir outras atribuições que venham a ser estabelecidas por aprovação da 
-    Assembléia Geral ou do Regimento Interno.
+    Assembleia Geral ou do Regimento Interno.
 
 
 Capítulo VI - DA DIRETORIA FISCAL
@@ -564,7 +564,7 @@ seguintes atribuições:
 -   Parágrafo 1º - Os membros da Diretoria Fiscal serão eleitos em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
     deste Estatuto.
--   Parágrafo 2º - Os mandatos da Direotira Fiscal terão duração de 02
+-   Parágrafo 2º - Os mandatos da Diretoria Fiscal terão duração de 02
     (dois) anos, sendo permitida a recondução ao cargo em eleição.
 
 Artigo 31º
