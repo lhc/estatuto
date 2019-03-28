@@ -128,9 +128,10 @@ O **LHC** contará com um número ilimitado de Associados, podendo
 filiar-se somente pessoas físicas maiores de 18 (dezoito) anos,
 distintos em três categorias:
 
-1.  Associado Fundador: aquele que tenha participado da Assembleia de
-    Fundação do **LHC**, tendo realizado o aporte patrimonial
-    determinado nesta Assembleia.
+1.  Associado Fundador: aquele que tenha participado da Assembleia de 
+    Fundação do **LHC** ou que tenha se associado a ele até 30 (trinta) 
+    dias após a sua fundação, tendo realizado o aporte patrimonial determinado 
+    nesta Assembleia.
 2.  Associado Titular: pessoa física que tenha sua proposta de
     associação aprovada por instância competente;
 3.  Associado Honorário: título simbólico concedido a pessoa de notório
