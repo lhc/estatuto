@@ -235,8 +235,7 @@ ou justa causa, sendo esta última cabível nas seguintes hipóteses:
 2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**;
 3.  prática de ato que contrarie decisões de Assembleias, Presidência,
     Diretorias e Conselhos;
-4.  não pagamento de 02 (duas) parcelas consecutivas das contribuições
-    associativas.
+4.  não pagamento de 02 (duas) parcelas das contribuições associativas.
 
 -   Parágrafo único - A perda da qualidade de Associado por justa causa
     será determinada pelo Conselho, cabendo recurso da
