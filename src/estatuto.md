@@ -1,12 +1,12 @@
-LABORATÓRIO HACKER DE CAMPINAS 
+LABORATÓRIO HACKER DE CAMPINAS
 ==============================
 
 Este Estatuto Social foi aprovado em
-[Assembleia de Fundação](https://lhc.net.br/wiki/assembleia_fundacao) 
+[Assembleia de Fundação](https://lhc.net.br/wiki/assembleia_fundacao)
 realizada no dia 01 de Janeiro de 1900. É mantido de forma *open-source*,
-junto com o [Código de Conduta](https://lhc.net.br/wiki/codigo_conduta), 
+junto com o [Código de Conduta](https://lhc.net.br/wiki/codigo_conduta),
 o [Regimento Interno](https://lhc.net.br/wiki/regimento_interno), atas de
-reuniões e demais documentos relacionados, no 
+reuniões e demais documentos relacionados, no
 [Github](https://github.com/lhc/estatuto/) do **LHC**.
 
 ---
@@ -19,22 +19,22 @@ Artigo 1º
 ---------
 
 **LABORATÓRIO HACKER DE CAMPINAS**, doravante designado simplesmente
-pela sigla **LHC**, é uma pessoa jurídica de direito privado, sem 
-fins econômicos ou lucrativos, de caráter social, cultural, educacional, 
-técnico-científico, assistencial, promocional e recreativo, sem cunho 
-religioso ou partidário, com a finalidade de atender a todos a que a 
-ele se associem e também ao público em geral, regida pelo presente 
+pela sigla **LHC**, é uma pessoa jurídica de direito privado, sem
+fins econômicos ou lucrativos, de caráter social, cultural, educacional,
+técnico-científico, assistencial, promocional e recreativo, sem cunho
+religioso ou partidário, com a finalidade de atender a todos a que a
+ele se associem e também ao público em geral, regida pelo presente
 Estatuto Social e legislação aplicável.
 
--   Parágrafo único - O **LHC** foi simbolicamente fundado no dia 12 
-    de Outubro de 2011, data das festividades de aniversário. A 
+-   Parágrafo único - O **LHC** foi simbolicamente fundado no dia 12
+    de Outubro de 2011, data das festividades de aniversário. A
     Associação Mantenedora do **LHC** existe desde a data de aprovação
     do presente Estatuto e tem prazo de duração indeterminado.
 
 Artigo 2º
 ---------
 
-O **LHC** tem sede e foro em Campinas, Estado de São Paulo, à 
+O **LHC** tem sede e foro em Campinas, Estado de São Paulo, à
 Rua Sales de Oliveira, 1800, Vila Industrial - Campinas-SP.
 CEP 13035-500
 
@@ -114,9 +114,9 @@ convicções políticas e condição social, intelectual ou seus contrários.
     quando cabível, será permitida mediante autorização ou
     acompanhamento de responsável legal.
 2.  A participação nas atividades do **LHC** será vetada apenas àqueles
-    que, por descumprimento deste Estatuto ou do
-    [Código de Conduta](Código de Conduta), tenham sido expulsos do
-    **LHC** ou estejam com seus direitos estatutários suspensos.
+    que, por descumprimento deste Estatuto, do [Código de Conduta](Código de Conduta)
+    ou ainda, [Regimento Interno](Regimento Interno) tenham sido expulsos do 
+    **LHC** ou estejam com seus direitos estatutários suspensos.
 
 Capítulo II - DOS ASSOCIADOS
 ============================
@@ -128,10 +128,10 @@ O **LHC** contará com um número ilimitado de Associados, podendo
 filiar-se somente pessoas físicas maiores de 18 (dezoito) anos,
 distintos em três categorias:
 
-1.  Associado Fundador: aquele que tenha participado da Assembleia de 
-    Fundação do **LHC** ou que tenha se associado a ele até 30 (trinta) 
-    dias após a sua fundação, tendo realizado o aporte patrimonial determinado 
-    nesta Assembleia.
+1.  Associado Fundador: aquele que tenha participado da Assembleia de
+    Fundação do **LHC** ou que tenha se associado a ele até 30 (trinta)
+    dias após a sua fundação, tendo realizado o aporte patrimonial determinado
+    nesta Assembleia;
 2.  Associado Titular: pessoa física que tenha sua proposta de
     associação aprovada por instância competente;
 3.  Associado Honorário: título simbólico concedido a pessoa de notório
@@ -142,7 +142,7 @@ distintos em três categorias:
 -   Parágrafo 1º - Será designado genericamente por Associado Efetivo
     todo aquele que pertença às categorias de Associado Fundador ou
     Associado Titular e que esteja em pleno gozo de seus direitos
-    estatutários.
+    estatutários;
 -   Parágrafo 2º - O Título de Associado Honorário, quando conferido a
     Associado Efetivo, não o priva dos direitos nem o exime dos deveres
     inerentes a essa categoria.
@@ -154,7 +154,7 @@ São DIREITOS dos Associados:
 
 1.  gozar dos benefícios oferecidos pelo **LHC** na forma prevista
     neste Estatuto Social e no [Regimento Interno](Regimento Interno);
-2.  recorrer à Assembleia Geral contra qualquer ato da Presidência, 
+2.  recorrer à Assembleia Geral contra qualquer ato da Presidência,
     da Diretoria Executiva, da Diretoria Fiscal, do Conselho; e
 3.  estar presente e tomar a voz em reunião de qualquer órgão
     deliberativo ou administrativo do **LHC**.
@@ -168,10 +168,10 @@ São DEVERES dos Associados:
     [Código de Conduta](Código de Conduta) e o
     [Regimento Interno](Regimento Interno);
 2.  respeitar e cumprir as decisões da Assembleia Geral,
-    da Presidência, do Conselho e das Diretorias Fiscal e 
+    da Presidência, do Conselho e das Diretorias Fiscal e
     Executiva;
 3.  zelar pelo bom nome do **LHC**;
-4.  defender o patrimônio e os interesses do **LHC**;
+4.  defender o patrimônio e os interesses do **LHC**.
 
 Artigo 10º
 ----------
@@ -183,7 +183,7 @@ São DIREITOS exclusivos dos Associados Efetivos:
     da Diretoria Fiscal e de Conselheiro Chefe;
 3.  requerer mandato no Conselho, conforme disposto no
     artigo 23º; e
-4.  livre acesso a todos os arquivos, documentos e instalações do **LHC**. 
+4.  livre acesso a todos os arquivos, documentos e instalações do **LHC**.
 
 -   Parágrafo único - O Associado Efetivo que pertença à categoria de
     Titular somente poderá candidatar-se e ocupar cargo nas Diretorias
@@ -209,14 +209,14 @@ Artigo 12º
 
 A admissão dos Associados dar-se-á de forma independente de classe
 social, nacionalidade, sexo, raça, cor e crença religiosa - ou a falta
-destas - e, para seu ingresso, o interessado deverá submeter sua
+destas e, para seu ingresso, o interessado deverá submeter sua
 proposta de admissão para apreciação do Conselho, de acordo
 com os critérios definidos no [Regimento Interno](Regimento Interno).
 
 -   Parágrafo 1º - O título de Associado é pessoal e intransmissível.
 -   Parágrafo 2º - A associação está vinculada ao pagamento de
     contribuições associativas com valores e periodicidade a serem
-    especificados no Regimento Interno.
+    especificados no [Regimento Interno](Regimento Interno).
 
 Artigo 13º
 ----------
@@ -230,10 +230,10 @@ Artigo 14º
 A perda da qualidade de Associado dar-se-á por falecimento, incapacidade
 ou justa causa, sendo esta última cabível nas seguintes hipóteses:
 
-1.  descumprimento deste Estatuto Social, do Código de Conduta ou do
-    Regimento Interno;
-2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**; 
-3.  prática de ato que contrarie decisões de Assembleias, Presidência, 
+1.  descumprimento deste Estatuto Social, do [Código de Conduta](Código de Conduta)
+    ou do [Regimento Interno](Regimento Interno);
+2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**;
+3.  prática de ato que contrarie decisões de Assembleias, Presidência,
     Diretorias e Conselhos;
 4.  não pagamento de 02 (duas) parcelas consecutivas das contribuições
     associativas.
@@ -260,7 +260,7 @@ Associados Efetivos reunidos para deliberar sobre matérias de interesse
 da associação.
 
 -   Parágrafo único - São órgãos do **LHC**, independentes e harmônicos
-    entre si, A Diretoria Executiva, o Conselho, a Diretoria Fiscal e a Diretoria
+    entre si: A Diretoria Executiva; o Conselho; a Diretoria Fiscal e a Diretoria
     Executiva, estando eles diretamente subordinados à Assembleia Geral.
 
 Artigo 17º
@@ -272,8 +272,8 @@ Compete privativamente à Assembleia Geral:
     Chefe do Conselho;
 2.  deliberar sobre a compra ou alienação de bens imóveis;
 3.  deliberar sobre a celebração de convênios, aquisições ou contratos
-    com valor superior a 25 salários mínimos;
-4.  destituir a Presidência, a Diretoria Executiva e a Diretoria Fiscal, 
+    com valor superior a 25 (vinte e cinco) salários mínimos;
+4.  destituir a Presidência, a Diretoria Executiva e a Diretoria Fiscal,
     inteiramente ou seus membros, assim como o Chefe do Conselho;
 5.  alterar o Estatuto Social;
 6.  deliberar quanto à dissolução da Associação; e
@@ -320,16 +320,16 @@ forma especificada no [Regimento Interno](Regimento Interno).
 Artigo 21º
 ----------
 
-A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, até o dia 31 
-de março, e extraordinariamente, quando convocada pelo Presidente ou 
+A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, até o dia 31
+de março, e extraordinariamente, quando convocada pelo Presidente ou
 Diretoria Executiva, pelo Chefe do Conselho, pela Diretoria Fiscal, ou
 ainda ao menos 1/5 (um quinto) dos Associados Efetivos, que subscreverão
 e especificarão os motivos da convocação.
 
 -   Parágrafo 1º - A Assembleia Geral Ordinária ocorrerá anualmente e
-    deverá deliberar, quando cabível, sobre a eleição do Presidente, 
-    Diretorias Executiva e Fiscal, e o Chefe do Conselho, além de 
-    aprovar a prestação de contas do exercício social findo e a 
+    deverá deliberar, quando cabível, sobre a eleição do Presidente,
+    Diretorias Executiva e Fiscal, e o Chefe do Conselho, além de
+    aprovar a prestação de contas do exercício social findo e a
     previsão orçamentária do exercício entrante.
 -   Parágrafo 2º - A Assembleia Geral será convocada mediante edital
     afixado na sede do **LHC**, além de meios eletrônicos, conforme
@@ -345,7 +345,7 @@ e especificarão os motivos da convocação.
     ata dos trabalhos seja assinada somente pelos integrantes da mesa,
     desde que assinada a lista de presença pelos Associados presentes.
 
-Capítulo IV - DO CONSELHO 
+Capítulo IV - DO CONSELHO
 ==========================
 
 Artigo 22º
@@ -378,7 +378,7 @@ automaticamente aceita e registrada.
     serão abonadas anualmente, na data de realização da Assembleia Geral
     Ordinária.
 
--   Parágrafo 2º - Para efeitos de computação de *quorum*, não
+-   Parágrafo 2º - Para efeitos de computação de *quórum*, não
     serão considerados os Membros do Conselho com mandato revogado ou com
     justificativa de ausência aceita pelo plenário.
 
@@ -409,8 +409,8 @@ Compete ao Conselho:
 8.  proceder à indicação de membro interino da Diretoria Fiscal ou da
     Diretoria Executiva, quando houver vacância em algum destes cargos;
 9.  decidir sobre a admissão e exclusão de Associados, conforme o
-    disposto neste Estatuto e no Regimento Interno;
-10. decidir junto com a Diretoria Fiscal sobre o valor das contribuições 
+    disposto neste Estatuto e no [Regimento Interno](Regimento Interno);
+10. decidir junto com a Diretoria Fiscal sobre o valor das contribuições
     associativas;
 11. conceder, mediante a devida fundamentação, isenção de contribuição
     associativa para Associado Efetivo em situação de extrema
@@ -435,15 +435,11 @@ Efetivos.
 
 -   Parágrafo 1º - Para sua instalação, a reunião do Conselho
     deverá contar com a presença mínima de 07 (sete)
-    conselheiros ou 1/5 (um quinto) deles, o que for maior.
-
-<!-- -->
+    conselheiros e/ou 1/5 (um quinto) deles, o que for maior.
 
 -   Parágrafo 2º - As reuniões ordinárias do Conselho deverão ocorrer,
     no mínimo, uma vez a cada 03 (três) meses e não mais que uma vez por
     semana.
-
-<!-- -->
 
 -   Parágrafo 3º - As reuniões extraordinárias do Conselho deverão ser
     convocadas com no mínimo 05 (cinco) dias úteis de antecedência, na
@@ -465,7 +461,7 @@ Compete ao Chefe do Conselho:
 
 Parágrafo único - na ausência do Chefe do Conselho e de seu substituto,
 o Conselho do **LHC** deve ser presidido interinamente por um
-um membro do conselho eleito pela maioria simples dos votos dos presentes, 
+um membro do conselho eleito pela maioria simples dos votos dos presentes,
 desde que este não ocupe cargo eletivo no **LHC**.
 
 Artigo 27º
@@ -485,8 +481,8 @@ Artigo 28º
 ----------
 
 A Presidência do **LHC** é o órgão que representa o **LHC** ativa e passivamente
-perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais, 
-em juízo ou fora dele, podendo delegar poderes e constituir advogados ou 
+perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais,
+em juízo ou fora dele, podendo delegar poderes e constituir advogados ou
 procuradores para o fim que julgar necessário. A Presidência do **LHC**
 será composto por 02 (dois) membros eleitos pela Assembleia Geral e por ordem
 de votos recebidos, sendo o primeiro mais bem votado designado de presidente,
@@ -499,34 +495,33 @@ Compete à Presidência:
 
 1.  convocar e presidir as reuniões das Diretorias Executiva e Fiscal;
 2.  convocar a Assembleia Geral, conforme o disposto no Artigo 21º;
-3.  organizar um relatório contendo balanço do exercício financeiro e 
-    os principais eventos do ano anterior, apresentando-o anualmente 
+3.  organizar um relatório contendo balanço do exercício financeiro e
+    os principais eventos do ano anterior, apresentando-o anualmente
     ao Conselho;
-4.  representar o **LHC** perante outras entidades públicas ou privadas 
-    externas, quando requisitado por estas, ou ainda em eventos, 
+4.  representar o **LHC** perante outras entidades públicas ou privadas
+    externas, quando requisitado por estas, ou ainda em eventos,
     premiações e comemorações oficiais; e
 5.  manter atualizado o quadro social;
 6.  fomentar a sociabilização entre os Associados;
 7.  propor ou coordenar a realização de eventos técnicos e sociais;
-8.  promover a comunicação interna do **LHC** e incentivar a troca 
+8.  promover a comunicação interna do **LHC** e incentivar a troca
     de informações entre os Associados;
 9.  promover ações visando o aumento do quadro social; e
-10. promover a divulgação externa do **LHC**, tornando de 
+10. promover a divulgação externa do **LHC**, tornando de
     conhecimento público os valores e as atividades realizadas por ele.
-11. assinar, preferencialmente junto com a titular da Diretoria Fiscal, 
-    cheques, promissórias e todos os demais títulos de crédito de emissão 
+11. assinar, preferencialmente junto com a titular da Diretoria Fiscal,
+    cheques, promissórias e todos os demais títulos de crédito de emissão
     e responsabilidade;
-12. assinar, juntamente com o titular da Diretoria Fiscal, todos os convênios, 
-    ajustes técnicos e demais contratos firmados pelo **LHC** com terceiros de 
+12. assinar, juntamente com o titular da Diretoria Fiscal, todos os convênios,
+    ajustes técnicos e demais contratos firmados pelo **LHC** com terceiros de
     qualquer natureza;
-13. visar, juntamente com o titular da Diretoria Fiscal, a apresentação de projetos, 
+13. visar, juntamente com o titular da Diretoria Fiscal, a apresentação de projetos,
     precedendo à lavratura dos respectivos convênios e contratos;
-14. assinar, juntamente com os titulares da Diretoria Fiscal e Executiva, as Atas das 
-    reuniõese, assim como outros documentos que signifiquem compromisso formal do 
+14. assinar, juntamente com os titulares da Diretoria Fiscal e Executiva, as Atas das
+    reuniões, assim como outros documentos que signifiquem compromisso formal do
     **LHC**; e,
-15. cumprir outras atribuições que venham a ser estabelecidas por aprovação da 
+15. cumprir outras atribuições que venham a ser estabelecidas por aprovação da
     Assembleia Geral ou do Regimento Interno.
-
 
 Capítulo VI - DA DIRETORIA FISCAL
 ================================
@@ -594,18 +589,18 @@ Capítulo VII - DA DIRETORIA EXECUTIVA
 Artigo 34º
 ----------
 
-A Diretoria Executiva é o órgão responsável pela administração do 
+A Diretoria Executiva é o órgão responsável pela administração do
 **LHC** e pela implementação da política estabelecida pelo Conselho.
 
 Artigo 35º
 ----------
 
-A Diretoria Executiva será composta por 02 (dois) membros, e 
-reunir-se-á sempre que houver convocação do Presidente ou sempre 
+A Diretoria Executiva será composta por 02 (dois) membros, e
+reunir-se-á sempre que houver convocação do Presidente ou sempre
 que convocado pelo Conselho, ou pela maioria dos seus membros.
 
 -   Parágrafo 1º - Os membros da Diretoria Executiva serão eleitos em
-    Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
+    Assembleia Geral Ordinária, conforme o disposto nos Artigos 37 e 38
     deste Estatuto.
 -   Parágrafo 2º - Os mandatos da Diretoria Executiva terão duração de
     02 (dois) anos, sendo permitida a recondução ao cargo em eleição.
@@ -641,10 +636,10 @@ Capítulo VIII - DAS ELEIÇÕES E MANDATOS
 Artigo 37º
 ----------
 
-As eleições para a Presidência, Diretoria Executiva, Diretoria Fiscal 
-e Chefe do Conselho realizar-se-ão conjuntamente, em Assembleia Geral 
-Ordinária, por candidatura individual a cada cargo, para mandatos de 
-02 (dois) anos.
+As eleições para a Presidência, Diretoria Executiva, Diretoria Fiscal
+e Chefe do Conselho realizar-se-ão conjuntamente, em Assembleia Geral
+Ordinária, por candidatura individual a cada cargo, para mandatos de
+02 (dois) anos, vedada mais de uma reeleição consecutiva.
 
 -   Parágrafo 1º - caberá ao Secretário receber antecipadamente as
     fichas de inscrição dos candidatos.
@@ -665,11 +660,11 @@ Ordinária, por candidatura individual a cada cargo, para mandatos de
 Artigo 38º
 ----------
 
-As eleições serão convocadas na forma de Assembleia Geral Ordinária 
-por edital, contendo data, horário e local, fixado na sede e divulgado 
-por meios eletrônicos conforme o Regimento Interno, devendo a Assembleia 
-ser realizada com antecedência de 45 (quarenta e cinco) a 15 (quinze) dias 
-do término dos mandatos correntes.
+As eleições serão convocadas na forma de Assembleia Geral Ordinária
+por edital, contendo data, horário e local, fixado na sede e divulgado
+por meios eletrônicos conforme o Regimento Interno, devendo a Assembleia
+ser realizada com antecedência de 45 (quarenta e cinco) dias do término
+dos mandatos correntes.
 
 -   Parágrafo 1º - As candidaturas deverão ser registradas até 48
     (quarenta e oito) horas antes do horário constante do edital de
@@ -686,7 +681,7 @@ do término dos mandatos correntes.
 Artigo 39º
 ----------
 
-Estarão sujeitos à perda do mandato o Presidente, o Chefe do Conselho, 
+Estarão sujeitos à perda do mandato o Presidente, o Chefe do Conselho,
 os membros da Diretoria Executiva e da Diretoria Fiscal que incorrerem em:
 
 1.  malversação ou dilapidação do patrimônio social;
@@ -701,13 +696,13 @@ Artigo 40º
 ----------
 
 Em caso de renúncia ou destituição de qualquer membro de cargo eletivo,
-o cargo será preenchido interinamente, até o final do mandato, 
+o cargo será preenchido interinamente, até o final do mandato,
 por Associado Efetivo elegível indicado.
 
 -   Parágrafo único - ocorrendo renúncia ou destituição de mais da
-    metade dos membros eletivos, o Conselho deverá, imediatamente, 
-    convocar uma Assembleia Geral Extraordinária que elegerá os membros 
-    faltantes. Os eleitos nestas condições ocuparão os cargos dos 
+    metade dos membros eletivos, o Conselho deverá, imediatamente,
+    convocar uma Assembleia Geral Extraordinária que elegerá os membros
+    faltantes. Os eleitos nestas condições ocuparão os cargos dos
     renunciantes ou destituídos até o término dos mandatos interrompidos.
 
 
@@ -733,17 +728,17 @@ O patrimônio do **LHC** é constituído e mantido por:
 Artigo 42º
 ----------
 
-O **LHC** também reconhece 42 (quarenta e dois) como a resposta 
+O **LHC** também reconhece 42 (quarenta e dois) como a resposta
 para a pergunta fundamental sobre a vida, o universo e tudo mais.
 
 Artigo 43º
 ----------
 
 O **LHC** não remunerará, por qualquer forma, os membros de cargos eletivos,
-cujas atuações são inteiramente gratuitas e de caráter voluntário, sendo também 
-vedada a distribuição de rendas, lucros ou bonificações, sob qualquer forma ou 
-pretexto, exceto quando na forma de reembolsos por despesas efetuadas em 
-benefício do **LHC**, com o devido aval da Diretoria Executiva, posteriormente 
+cujas atuações são inteiramente gratuitas e de caráter voluntário, sendo também
+vedada a distribuição de rendas, lucros ou bonificações, sob qualquer forma ou
+pretexto, exceto quando na forma de reembolsos por despesas efetuadas em
+benefício do **LHC**, com o devido aval da Diretoria Executiva, posteriormente
 referendado pelo Conselho.
 
 Artigo 44º
@@ -757,52 +752,52 @@ Assembleia Geral, ou, em último caso, ao poder público.
 Capítulo X - DO EXERCÍCIO SOCIAL, FISCAL E FINANCEIRO
 =====================================================
 
-Artigo 44º
+Artigo 45º
 ----------
 
 O exercício social e financeiro terá duração de aproximadamente 01 (um)
 ano, tendo início e fim na data de realização da Assembleia Geral
 Ordinária.
 
-Artigo 45º
+Artigo 46º
 ----------
 
 O exercício fiscal terminará em 31 de dezembro de cada ano, quando serão
 elaboradas as demonstrações financeiras da Associação, em conformidade
 com as disposições legais.
 
-Artigo 46º
+Artigo 47º
 ----------
 
 As finanças do **LHC** serão regidas pela previsão orçamentária anual,
 apresentadas pela Diretoria Fiscal, elaborada e aprovada pelo Conselho
 e referendada pela Assembleia Geral Ordinária.
 
-Artigo 47º
+Artigo 48º
 ----------
 
 A Diretoria Fiscal disponibilizará eletronicamente relatórios financeiros ao
 Conselho e demais membros do **LHC**. A prestação de contas do
-exercício findo deverá ser submetido anualmente à apreciação do Conselho
+exercício findo deverá ser submetida anualmente à apreciação do Conselho
 e da Assembleia Geral.
 
 Capítulo XI - DAS DISPOSIÇÕES GERAIS
 ====================================
 
-Artigo 48º
+Artigo 49º
 ----------
 
 O presente Estatuto poderá ser reformado, no todo ou em parte, a
 qualquer tempo, por deliberação de Assembleia Geral unicamente convocada
 para este fim, nos termos deste Estatuto Social.
 
-Artigo 49º
+Artigo 50º
 ----------
 
 O **LHC** entende como *hacker*:
 
 1.  a pessoa que tem gosto em ter um entendimento profundo do
-    funcionamento interno de todo tipo de sistema, não só computadores 
+    funcionamento interno de todo tipo de sistema, não só computadores
     e redes informáticas;
 2.  hobbistas interessados em computação, hardware e eletrônica,
     adeptos do movimento *Maker*; e
@@ -812,15 +807,15 @@ O **LHC** entende como *hacker*:
 Capítulo XII - DAS DISPOSIÇÕES TRANSITÓRIAS
 ==========================================
 
-Artigo 50º
+Artigo 51º
 ----------
 
-A Assembleia de Fundação indicará a Presidência, o Chefe do Conselho, 
-os membros da  primeira Diretoria Executiva e da primeira Diretoria Fiscal, 
-para exercer mandato válido até 31/12/2022; e determinará o valor do 
+A Assembleia de Fundação indicará a Presidência, o Chefe do Conselho,
+os membros da  primeira Diretoria Executiva e da primeira Diretoria Fiscal,
+para exercer mandato válido até 31/12/2022; e determinará o valor do
 aporte patrimonial a ser efetuado pelos Associados Fundadores.
 
-Artigo 51º
+Artigo 52º
 ----------
 
 Imediatamente após a Assembleia de Fundação do **LHC**, todos os
@@ -830,12 +825,21 @@ Conselho, que terá a obrigação de revisar o
 [Código de Conduta](Código de Conduta) no prazo de 120 dias após
 a data constante em Ata de Fundação.
 
+Artigo 53º
+----------
+
+Os casos omissos serão resolvidos pela Diretoria e referendados pela Assembleia Geral.
+
+Artigo 54º
+----------
+
+Fica eleito o foro da Comarca de Campinas, Estado de São Paulo, para a discussão
+e solução de qualquer ação fundada neste Estatuto Social.
 
 Capítulo XIII - DAS DISPOSIÇÕES FINAIS
 =====================================
 
-Artigo 52º
+Artigo 55º
 ----------
 
 Este Estatuto entra em vigor a partir da data de sua aprovação.
-
