@@ -395,7 +395,7 @@ Compete ao Conselho:
 2.  zelar pela observância do Estatuto e cumprir as decisões da
     Assembleia Geral;
 3.  elaborar, aprovar e alterar o
-    [Regimento Interno](Regimento Interno);
+    [Regimento Interno](Regimento Interno) e o [Código de Conduta](Código de Conduta);
 4.  elaborar e aprovar o orçamento do exercício social entrante, e
     apresentá-lo à Assembleia Geral;
 5.  aprovar e apresentar à Assembleia Geral o relatório e a prestação de
@@ -417,7 +417,8 @@ Compete ao Conselho:
     necessidade;
 12. conceder o título de Associado Honorário;
 13. decidir sobre a celebração de compras, contratos e convênios de
-    qualquer espécie com valor inferior a 25 (vinte e cinco) salários mínimos;
+    qualquer espécie com valor inferior ou igual a 25 (vinte e cinco) salários
+    mínimos;
 14. decidir sobre o recebimento de doações de pessoas físicas ou
     jurídicas externas ao quadro social;
 15. encaminhar proposta de reforma do Estatuto à Assembleia Geral;
