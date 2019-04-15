@@ -11,7 +11,6 @@ reuniões e demais documentos relacionados, no
 
 ---
 
-
 Capítulo I - DA DENOMINAÇÃO, PRAZO DE DURAÇÃO, SEDE E OBJETO SOCIAL
 ===================================================================
 
@@ -235,7 +234,8 @@ ou justa causa, sendo esta última cabível nas seguintes hipóteses:
 2.  prática de ato ilícito e/ou incompatível com os princípios do **LHC**;
 3.  prática de ato que contrarie decisões de Assembleias, Presidência,
     Diretorias e Conselhos;
-4.  não pagamento de 02 (duas) parcelas das contribuições associativas.
+4.  não pagamento de 02 (duas) parcelas consecutivas ou 03 (três) parcelas
+    nos últimos 06 (seis) meses das contribuições associativas.
 
 -   Parágrafo único - A perda da qualidade de Associado por justa causa
     será determinada pelo Conselho, cabendo recurso da
@@ -321,7 +321,7 @@ Artigo 21º
 
 A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, até o dia 31
 de março, e extraordinariamente, quando convocada pelo Presidente ou
-Diretoria Executiva, pelo Chefe do Conselho, pela Diretoria Fiscal, ou
+Diretoria Executiva ou pelo Chefe do Conselho ou pela Diretoria Fiscal, ou
 ainda ao menos 1/5 (um quinto) dos Associados Efetivos, que subscreverão
 e especificarão os motivos da convocação.
 
@@ -457,7 +457,7 @@ Compete ao Chefe do Conselho:
 5.  representar o Conselho perante outras instâncias deliberativas e
     administrativas do **LHC**;
 6.  cumprir e fazer cumprir as decisões da Assembleia Geral, desse Estatuto,
-    do Regimento interno e o Código de Conduta.
+    do Regimento Interno e o Código de Conduta.
 
 Parágrafo único - na ausência do Chefe do Conselho e de seu substituto,
 o Conselho do **LHC** deve ser presidido interinamente por um
@@ -470,9 +470,15 @@ Artigo 27º
 As decisões do Conselho serão tomadas por maioria simples,
 cabendo apenas um voto a cada membro presente.
 
--   Parágrafo único - Em caso de empate na votação, a matéria deverá ser
+-   Parágrafo 1º - Em caso de empate na votação, a matéria deverá ser
     postergada até a próxima reunião ordinária. Persistindo o empate, o
     Chefe do Conselho terá direito ao Voto de Minerva.
+
+-   Parágrafo 2º - A Presidência, a Diretoria Executiva ou a Diretoria Fiscal
+    tem até 5 (cinco) dias úteis para vetar temporariamente qualquer decisão do
+    Conselho, devendo convocar com no mínimo 05 (cinco) dias úteis de
+    antecedência uma reunião extraordinária do Conselho exclusiva para deliberar
+    de forma definitiva sobre essa decisão.
 
 Capítulo V - DA PRESIDÊNCIA
 ===========================
@@ -483,10 +489,8 @@ Artigo 28º
 A Presidência do **LHC** é o órgão que representa o **LHC** ativa e passivamente
 perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais,
 em juízo ou fora dele, podendo delegar poderes e constituir advogados ou
-procuradores para o fim que julgar necessário. A Presidência do **LHC**
-será composto por 02 (dois) membros eleitos pela Assembleia Geral e por ordem
-de votos recebidos, sendo o primeiro mais bem votado designado de presidente,
-e o segundo assumindo a vice-presidência.
+procuradores para o fim que julgar necessário. A Presidência do **LHC** é composta
+por 01 (hum) membro eleito pela Assembleia Geral, por maioria de votos.
 
 Artigo 29º
 ----------
@@ -500,15 +504,15 @@ Compete à Presidência:
     ao Conselho;
 4.  representar o **LHC** perante outras entidades públicas ou privadas
     externas, quando requisitado por estas, ou ainda em eventos,
-    premiações e comemorações oficiais; e
+    premiações e comemorações oficiais;
 5.  manter atualizado o quadro social;
 6.  fomentar a sociabilização entre os Associados;
 7.  propor ou coordenar a realização de eventos técnicos e sociais;
 8.  promover a comunicação interna do **LHC** e incentivar a troca
     de informações entre os Associados;
-9.  promover ações visando o aumento do quadro social; e
+9.  promover ações visando o aumento do quadro social;
 10. promover a divulgação externa do **LHC**, tornando de
-    conhecimento público os valores e as atividades realizadas por ele.
+    conhecimento público os valores e as atividades realizadas por ele;
 11. assinar, preferencialmente junto com a titular da Diretoria Fiscal,
     cheques, promissórias e todos os demais títulos de crédito de emissão
     e responsabilidade;
@@ -524,26 +528,26 @@ Compete à Presidência:
     Assembleia Geral ou do Regimento Interno.
 
 Capítulo VI - DA DIRETORIA FISCAL
-================================
+=================================
 
 Artigo 30º
 ----------
 
 A Diretoria Fiscal, órgão fiscalizador das finanças do **LHC**, será
-composto por 02 (dois) membros eleitos pela Assembleia Geral e terá as
+composto por 01 (hum) membro eleito pela Assembleia Geral e terá as
 seguintes atribuições:
 
 1.  examinar os livros de escrituração do **LHC**;
 2.  opinar e dar pareceres sobre planejamentos, balanços e relatórios
     financeiro e contábil apresentados pela Diretoria Executiva,
     submetendo-os ao Conselho e à Assembleia Geral;
-3.  Disponibilizar, a qualquer tempo, documentação
+3.  disponibilizar, a qualquer tempo, documentação
     comprobatória das operações financeiras realizadas pelo **LHC**;
 4.  acompanhar o trabalho de eventuais auditores externos independentes
-    ou assessoria contábil; e
-5.  convocar extraordinariamente a Assembleia Geral, caso julguem ter
+    ou assessoria contábil;
+5.  convocar extraordinariamente a Assembleia Geral, caso julgue ter
     encontrado irregularidades no objeto de sua fiscalização de
-    gravidade justificável ao ato.
+    gravidade justificável ao ato;
 6.  abrir e movimentar contas bancárias, assinar cheques ou documentos
     contábeis, executar ordens de pagamento, recebimentos e
     transferências bancárias;
@@ -556,35 +560,27 @@ seguintes atribuições:
     balancetes fiscais e financeiros; e
 10. substituir o Presidente em suas eventuais faltas e impedimentos.
 
--   Parágrafo 1º - Os membros da Diretoria Fiscal serão eleitos em
+-   Parágrafo 1º - O membro da Diretoria Fiscal será eleito em
     Assembleia Geral Ordinária, conforme o disposto nos Artigos 41 e 43
     deste Estatuto.
--   Parágrafo 2º - Os mandatos da Diretoria Fiscal terão duração de 02
+-   Parágrafo 2º - O mandato da Diretoria Fiscal terá duração de 02
     (dois) anos, sendo permitida a recondução ao cargo em eleição.
-
-Artigo 31º
-----------
-
-A Diretoria Fiscal reunir-se-á ao menos duas vezes ao ano, sendo uma
-delas a não mais que duas semanas do final do exercício social, em sua
-maioria absoluta, em caráter ordinário e, extraordinariamente, sempre
-que convocado pelo Conselho, ou pela maioria dos seus membros.
 
 Artigo 32º
 ----------
 
-Os membros da Diretoria Fiscal não poderão ocupar, simultaneamente ao seu
+O membro da Diretoria Fiscal não poderá ocupar, simultaneamente ao seu
 mandato, cargos na Diretoria Executiva.
 
 Artigo 33º
 ----------
 
-Os membros da Diretoria Fiscal serão eleitos em Assembleia Geral
+O membro da Diretoria Fiscal será eleito em Assembleia Geral
 Ordinária, conforme o disposto nos Artigos 41 e 43 deste Estatuto.
 
 
 Capítulo VII - DA DIRETORIA EXECUTIVA
-====================================
+=====================================
 
 Artigo 34º
 ----------
@@ -622,7 +618,7 @@ Compete à Diretoria Executiva:
 7.  comparecer às reuniões do Conselho, de modo a promover a
     sinergia entre os dois órgãos;
 8.  registrar aquisições e doações ao **LHC**;
-9.  zelar pela conservação do patrimônio e da infraestrutura do  **LHC**;
+9.  zelar pela conservação do patrimônio e da infraestrutura do **LHC**;
 10. zelar pela sede do **LHC**, controlando o acesso a ela na forma
     estabelecida pelo Regimento Interno;
 11. confeccionar e manter a relação dos bens do **LHC**, deixando-a
@@ -645,17 +641,13 @@ Ordinária, por candidatura individual a cada cargo, para mandatos de
     fichas de inscrição dos candidatos.
 -   Parágrafo 2º - apenas Associados Titulares que tenham sido admitidos
     ao quadro social há mais de 01 (um) ano poderão candidatar-se
-    aos cargos da Diretoria Executiva.
+    a qualquer cargo.
 -   Parágrafo 3º - será permitido a cada Associado elegível a
-    apresentação de apenas uma candidatura para a Diretoria Executiva ou
-    uma candidatura para o Conselho Fiscal.
+    apresentação de apenas uma candidatura para apenas um dos cargos.
 -   Parágrafo 4º - cada Associado Efetivo presente na ocasião das
     eleições poderá votar em apenas um candidato para cada cargo.
--   Parágrafo 5º - serão declarados eleitos os 02 (dois) primeiros
-    colocados na eleição para cada cargo, exceto Chefe do Conselho.
--   Parágrafo 6º - será declarado eleito Chefe do Conselho
-    o candidato que receber o maior número de votos.
-
+-   Parágrafo 5º - serão declarados eleitos o primeiro colocado
+    na eleição para cada cargo.
 
 Artigo 38º
 ----------
@@ -682,7 +674,7 @@ Artigo 39º
 ----------
 
 Estarão sujeitos à perda do mandato o Presidente, o Chefe do Conselho,
-os membros da Diretoria Executiva e da Diretoria Fiscal que incorrerem em:
+a Diretoria Executiva e a Diretoria Fiscal que incorrerem em:
 
 1.  malversação ou dilapidação do patrimônio social;
 2.  grave violação deste Estatuto;
@@ -697,7 +689,7 @@ Artigo 40º
 
 Em caso de renúncia ou destituição de qualquer membro de cargo eletivo,
 o cargo será preenchido interinamente, até o final do mandato,
-por Associado Efetivo elegível indicado.
+por Associado Efetivo elegível indicado pelo Conselho.
 
 -   Parágrafo único - ocorrendo renúncia ou destituição de mais da
     metade dos membros eletivos, o Conselho deverá, imediatamente,
@@ -755,7 +747,7 @@ Capítulo X - DO EXERCÍCIO SOCIAL, FISCAL E FINANCEIRO
 Artigo 45º
 ----------
 
-O exercício social e financeiro terá duração de aproximadamente 01 (um)
+O exercício social e financeiro terá duração de aproximadamente 01 (hum)
 ano, tendo início e fim na data de realização da Assembleia Geral
 Ordinária.
 
@@ -805,14 +797,14 @@ O **LHC** entende como *hacker*:
     inteligente, rápido e eficiente.
 
 Capítulo XII - DAS DISPOSIÇÕES TRANSITÓRIAS
-==========================================
+===========================================
 
 Artigo 51º
 ----------
 
 A Assembleia de Fundação indicará a Presidência, o Chefe do Conselho,
-os membros da  primeira Diretoria Executiva e da primeira Diretoria Fiscal,
-para exercer mandato válido até 31/12/2022; e determinará o valor do
+os membros da primeira Diretoria Executiva e da primeira Diretoria Fiscal,
+para exercer mandato válido até 31/03/2022; e determinará o valor do
 aporte patrimonial a ser efetuado pelos Associados Fundadores.
 
 Artigo 52º
@@ -837,7 +829,7 @@ Fica eleito o foro da Comarca de Campinas, Estado de São Paulo, para a discuss�
 e solução de qualquer ação fundada neste Estatuto Social.
 
 Capítulo XIII - DAS DISPOSIÇÕES FINAIS
-=====================================
+======================================
 
 Artigo 55º
 ----------
