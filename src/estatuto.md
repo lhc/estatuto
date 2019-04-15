@@ -166,7 +166,7 @@ Artigo 8º
 São **DIREITOS** dos Associados:
 
 I.   gozar dos benefícios oferecidos pelo **LHC** na forma prevista
-     neste Estatuto Social e no **Regimento Interno**;
+     neste Estatuto Social e no Regimento Interno;
 
 II.  recorrer à Assembleia Geral contra qualquer ato da Presidência,
      da Diretoria Executiva, da Diretoria Fiscal ou do Conselho; e
