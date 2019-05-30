@@ -545,7 +545,7 @@ A Presidência do **LHC** é o órgão que representa o **LHC** ativa e passivam
 perante a sociedade, perante os Órgãos Públicos Judiciais e Extrajudiciais,
 em juízo ou fora dele, podendo delegar poderes e constituir advogados ou
 procuradores para o fim que julgar necessário. A Presidência do **LHC** é composta
-por 01 (hum) membro eleito pela Assembleia Geral, por maioria de votos.
+por 01 (um) membro eleito pela Assembleia Geral, por maioria de votos.
 
 Artigo 29º
 ----------
@@ -603,7 +603,7 @@ Artigo 30º
 ----------
 
 A Diretoria Fiscal, órgão fiscalizador das finanças do **LHC**, será
-composto por 01 (hum) membro eleito pela Assembleia Geral e terá as
+composto por 01 (um) membro eleito pela Assembleia Geral e terá as
 seguintes atribuições:
 
 I.    examinar os livros de escrituração do **LHC**;
@@ -658,7 +658,7 @@ Artigo 32º
 
 A Diretoria Fiscal, órgão responsável pela administração do **LHC** e pela
 implementação da política estabelecida pelo Conselho será composto por 01
-(hum) membro eleito pela Assembleia Geral e terá as seguintes atribuições:
+(um) membro eleito pela Assembleia Geral e terá as seguintes atribuições:
 
 I.    administrar o **LHC** e seu patrimônio de acordo com o presente
       Estatuto e implementando as deliberações da Assembleia Geral e do
@@ -828,7 +828,7 @@ Capítulo X - DO EXERCÍCIO SOCIAL, FISCAL E FINANCEIRO
 Artigo 41º
 ----------
 
-O exercício social e financeiro terá duração de aproximadamente 01 (hum)
+O exercício social e financeiro terá duração de aproximadamente 01 (um)
 ano, tendo início e fim na data de realização da Assembleia Geral
 Ordinária.
 
