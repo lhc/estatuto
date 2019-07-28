@@ -141,7 +141,7 @@ distintos em três categorias:
 I.   __Associado Fundador__: aquele que tenha participado da Assembleia de
      Fundação do **LHC** ou que tenha se associado a ele até 30 (trinta)
      dias após a sua fundação, tendo realizado o aporte patrimonial determinado
-     nesta Assembleia;
+     nesta Assembleia de forma definida pela diretoria fiscal;
 
 II.  __Associado Titular__: pessoa física que tenha sua proposta de
      associação aprovada por instância competente;
