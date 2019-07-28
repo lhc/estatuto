@@ -231,7 +231,7 @@ A admissão dos Associados dar-se-á de forma independente de classe
 social, nacionalidade, sexo, raça, cor e crença religiosa - ou a falta
 destas e, para seu ingresso, o interessado deverá submeter sua
 proposta de admissão para apreciação do Conselho, de acordo
-com os critérios definidos no Regimento Interno
+com os critérios definidos no Regimento Interno.
 
 - § 1º - O título de Associado é pessoal e intransmissível.
 
@@ -451,7 +451,7 @@ VIII. proceder à indicação de membro interino da Diretoria Fiscal ou da
       Diretoria Executiva, quando houver vacância em algum destes cargos;
 
 IX.   decidir sobre a admissão e exclusão de Associados, conforme o
-      disposto neste Estatuto e no Regimento Interno
+      disposto neste Estatuto e no Regimento Interno;
 
 X.    decidir junto com a Diretoria Fiscal sobre o valor das contribuições
       associativas;
@@ -628,7 +628,7 @@ VI.   abrir e movimentar contas bancárias, assinar cheques ou documentos
 
 VII.  administrar o recebimento de contribuições associativas, tomando as
       medidas cabíveis quando do seu não cumprimento no prazo e forma
-      estipulados pelo Regimento Interno
+      estipulados pelo Regimento Interno;
 
 VIII. supervisionar o trabalho de assessorias de tesouraria ou
       contabilidade que venham a ser contratadas;
@@ -656,7 +656,7 @@ Capítulo VII - DA DIRETORIA EXECUTIVA
 Artigo 32º
 ----------
 
-A Diretoria Fiscal, órgão responsável pela administração do **LHC** e pela
+A Diretoria Executiva, órgão responsável pela administração do **LHC** e pela
 implementação da política estabelecida pelo Conselho será composto por 01
 (um) membro eleito pela Assembleia Geral e terá as seguintes atribuições:
 
@@ -688,7 +688,7 @@ X.    confeccionar e manter a relação dos bens do **LHC**, deixando-a
       disponível à consulta dos Associados e apresentando-a, quando
       solicitada, aos demais órgãos do **LHC**; e
 
-- § 1º - O membros da Diretoria Executiva será eleito em
+- § 1º - O membro da Diretoria Executiva será eleito em
   Assembleia Geral Ordinária, conforme o disposto nos Artigos 34 e 35
   deste Estatuto.
 
