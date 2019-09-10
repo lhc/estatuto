@@ -1,3 +1,8 @@
+---
+geometry: margin=2cm
+output: pdf_document
+---
+
 ATA DA ASSEMBLÉIA GERAL DE FUNDAÇÃO, APROVAÇÃO DO ESTATUTO, ELEIÇÃO E POSSE DOS ORGÃOS ADMINISTRATIVOS DO LABORATÓRIO HACKER DE CAMPINAS – LHC
 ==============================================================================================================================================
 
