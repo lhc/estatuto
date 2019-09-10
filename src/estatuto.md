@@ -10,17 +10,16 @@ Artigo 1º
 ---------
 
 **LABORATÓRIO HACKER DE CAMPINAS**, doravante designado simplesmente
-pela sigla **LHC**, é uma pessoa jurídica de direito privado, sem
-fins econômicos ou lucrativos, de caráter social, cultural, educacional,
-técnico-científico, assistencial, promocional e recreativo, sem cunho
-religioso ou partidário, com a finalidade de atender a todos a que a
-ele se associem e também ao público em geral, regida pelo presente
-Estatuto Social e legislação aplicável.
+pela sigla **LHC**, é uma associação civil, sem fins econômicos ou lucrativos, 
+de duração indeterminada, de caráter social, cultural, educacional, 
+técnico-científico, assistencial, promocional e recreativo, sem cunho 
+religioso ou partidário, com a finalidade de atender a todos a que a ele se 
+associem e também ao público em geral, regida pelo presente Estatuto Social 
+e legislação aplicável.
 
-- **Parágrafo único** - O **LHC** foi simbolicamente fundado no dia 12
-  de Outubro de 2011, data das festividades de aniversário. A
-  Associação Mantenedora do **LHC** existe desde a data de aprovação
-  do presente Estatuto e tem prazo de duração indeterminado.
+- **Parágrafo único** - O **LHC** foi simbolicamente fundado no dia 12 de Outubro
+  de 2011, data das festividades de aniversário. Sendo regida pelo presente Estatuto
+  e pelas demais disposições legais que lhe forem aplicadas.
 
 Artigo 2º
 ---------
