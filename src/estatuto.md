@@ -1,15 +1,7 @@
 LABORATÓRIO HACKER DE CAMPINAS
 ==============================
 
-Este Estatuto Social foi aprovado em
-[Assembleia de Fundação](https://lhc.net.br/wiki/assembleia_fundacao)
-realizada no dia 01 de Janeiro de 1900. É mantido de forma *open-source*,
-junto com o [Código de Conduta](https://lhc.net.br/wiki/codigo_conduta),
-o [Regimento Interno](https://lhc.net.br/wiki/regimento_interno), atas de
-reuniões e demais documentos relacionados, no
-[Github](https://github.com/lhc/estatuto/) do **LHC**.
-
----
+Aprovado em Assembleia de Fundação realizada no dia 28 de julho de 2019.
 
 Capítulo I - DA DENOMINAÇÃO, PRAZO DE DURAÇÃO, SEDE E OBJETO SOCIAL
 ===================================================================
@@ -923,3 +915,24 @@ Artigo 52º
 ----------
 
 Este Estatuto entra em vigor a partir da data de sua aprovação.
+
+\vspace{15 mm}
+
+\begin{center}
+\rule{7cm}{0.4pt}
+
+Douglas Vinicius Esteves
+
+Diretor Presidente
+\end{center}
+
+\vspace{15 mm}
+
+\begin{center}
+\rule{7cm}{0.4pt}
+
+Lucas Emmanuel Sousa Frias
+
+OAB/SP. 387.630
+
+\end{center}
