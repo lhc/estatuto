@@ -1,7 +1,11 @@
 LABORATÓRIO HACKER DE CAMPINAS
 ==============================
 
+\vspace{4 mm}
+
 Aprovado em Assembleia de Fundação realizada no dia 28 de julho de 2019.
+
+\vspace{8 mm}
 
 Capítulo I - DA DENOMINAÇÃO, PRAZO DE DURAÇÃO, SEDE E OBJETO SOCIAL
 ===================================================================
@@ -16,10 +20,6 @@ técnico-científico, assistencial, promocional e recreativo, sem cunho
 religioso ou partidário, com a finalidade de atender a todos a que a ele se 
 associem e também ao público em geral, regida pelo presente Estatuto Social 
 e legislação aplicável.
-
-- **Parágrafo único** - O **LHC** foi simbolicamente fundado no dia 12 de Outubro
-  de 2011, data das festividades de aniversário. Sendo regida pelo presente Estatuto
-  e pelas demais disposições legais que lhe forem aplicadas.
 
 Artigo 2º
 ---------
