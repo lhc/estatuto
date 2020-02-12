@@ -113,7 +113,7 @@ versão dos fatos, que será analisada juntamente com a queixa original.
 Escopo
 ------
 
-Esperamos que todos as pessoas que visitam ou participam da comunidade
+Esperamos que todas as pessoas que visitam ou participam da comunidade
 do **LHC** sigam este Código de Conduta em todos os locais --- on-line e
 presenciais --- bem como em todas as comunicações relacionadas às
 atividades do **LHC**.

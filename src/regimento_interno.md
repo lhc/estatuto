@@ -11,7 +11,7 @@ atas de reuniões e demais documentos relacionados, no
 O Regimento Interno foi elaborado e pode ser
 alterado pelo Conselho, devendo ser consolidado ao início do
 mandato de cada gestão, podendo sofrer alterações a qualquer momento, no
-surgimento de qualquer bug, incorporando as modificações ocorridas ao
+surgimento de qualquer *bug*, incorporando as modificações ocorridas ao
 longo de qualquer mandato.
 
 ---
@@ -23,10 +23,9 @@ Admissão de novos membros
 -------------------------
 
 1.  O interessado em associar-se ao **LHC** deverá:
-    1.  apresentar-se na lista de discussão ou pessoalmente;
-    2.  criar uma página de usuário com informações sobre quem é, o que
-        faz, etc;
-    3.  encontrar um associado que será seu **mentor**, que deverá
+    1.  apresentar-se na lista de discussão ou pessoalmente, fornecer informações 
+        sobre quem é, o que faz, etc;
+    2.  encontrar um associado que será seu **mentor**, que deverá
         auxiliá-lo em sua integração;
 2.  O **LHC** terá até 3 meses para ratificar a associação do interessado
     em associar-se que tenha cumprido o passo 1 da admissão aqui descrita.
@@ -36,11 +35,10 @@ Admissão de novos membros
 Contribuições associativas
 --------------------------
 
-1.  Veja os valores atualizados em [Mensalidades](Mensalidades)
+1.  Veja os valores atualizados em [Mensalidades](https://lhc.net.br/wiki/Doe)
 2.  Anuidade: Pago à vista. Válida por um ano da data de pagamento. O
     desconto só é concedido quando a anuidade for paga em fevereiro.
-3.  Mensalidade: Vencimento no dia 15 de cada mês. Pagamento via
-    Paypal, depósito ou dinheiro.
+3.  Mensalidade: Pagamento via Paypal, depósito ou dinheiro.
 
 Não Pagamento das contribuições associativas
 --------------------------------------------
@@ -50,8 +48,8 @@ Não Pagamento das contribuições associativas
     consecutivas das contribuições associativas. A Diretoria Fiscal e
     o Conselho devem proceder da seguinte forma:
     1.  Deverão enviar um aviso final de pagamento aos Associados com 
-        2 meses de atraso nas suas contribuições associativasi, e esses 
-        terão um prazo de 15 dias para quitar sua dívida, caso contrário
+        1 mês de atraso nas suas contribuições associativas, e esses 
+        terão um prazo de 30 dias para quitar sua dívida, caso contrário
         eles serão desassociados automaticamente.
     2.  A perda de qualidade de associado deverá ser comunicada na lista
         de e-mail dos associados.
@@ -60,13 +58,31 @@ Não Pagamento das contribuições associativas
         equivalente a duas vezes o valor da mensalidade mínima. A
         reassociação deve ser aprovada em reunião do Conselho.
 
+Mensalidades Sociais (Starving Hacker)
+--------------------------------------
+
+1.  O **LHC** considera necessário manter um programa de Mensalidades Sociais
+    nos moldes do programa de "starving hacker" do Noisebridge. O valor da
+    mensalidade social será de 50% do valor da menor mensalidade em vigor.
+2.  Para participar, o associado deverá solicitar ao conselho que avalie sua
+    necessidade de participar do programa, da seguinte forma:
+    1. Solicitando ao conselheiro-chefe, antecipadamente antes de qualquer
+       reunião, que seu nome seja avaliado para o programa.
+    2. Comparecer na reunião para defender de forma expositiva, em 5 minutos,
+       sua necessidade de ingresso no programa.
+    3. Trazer documentos que comprovem sua necessidade
+    4. Ter seu nome aprovado, por votação simples, pelos presentes na reunião.
+3. O recém ingressante no programa de mensalidades sociais gozará do desconto por
+   1 ano, cabendo ao mesmo solicitar participação no programa para o ano
+   seguinte caso tenha necessidade, repetindo os passos no item 2.
+
 Benefícios adicionais dos associados
 ------------------------------------
 
 1.  Todos os Associados Efetivos terão direito à chave do **LHC**.
 2.  Todos os Associados Efetivos terão direito a manter pertences
     próprios no depósito do **LHC**, em caixas devidamente
-    identificadas no armário reservado para este fim. O **LHC** tem o
+    identificadas no espaço reservado para este fim. O **LHC** tem o
     direito de recusar esse benefício caso o associado deseje guardar
     itens que possam representar risco aos frequentadores.
 
@@ -105,7 +121,7 @@ Reembolsos
 
 1.  Reembolsos de despesas feitas em benefício do **LHC** só serão
     efetivados mediante apresentação de nota fiscal (não pode ser
-    recibo), envio de e-mail para pagamentos\@lhc.net.br e aval prévio
+    recibo), envio de e-mail para <contato@lhc.net.br> e aval prévio
     da Diretoria Executiva.
 2.  A nota fiscal deve ser emitida para o CNPJ do **LHC**, obrigatoriamente.
 3.  As diretorias executiva e financeira tem autonomia para autorizar gastos.
@@ -119,9 +135,7 @@ Identificação de equipamentos
 -----------------------------
 
 1.  Qualquer coisa no **LHC** que não estiver identificada, poderá ser 
-    usada em um projeto qualquer ou ser descartada sem
-    aviso prévio.
-
+    usada em um projeto qualquer ou ser descartada sem aviso prévio.
 2.  Equipamentos de uso complexo ou arriscado devem ser devidamente
     identificados, determinando que seu uso deve ser feito apenas por
     pessoas, preferencialmente associados, que sejam consideradas por
@@ -143,8 +157,7 @@ Política de Recebimento de Doações para servir como diretriz para o
 recebimento de doações de materiais e objetos. Exceções podem ser estudadas 
 caso-a-caso.
 
-IMPORTANTE: O **LHC** não é um local apropriado para descarte de
-eletrônicos
+**IMPORTANTE**: O **LHC** não é um local apropriado para descarte de eletrônicos
 
 ### Regras gerais
 
@@ -175,10 +188,22 @@ Política de Descartes
 Assuntos diversos
 =================
 
+Aviso sobre uso da casa do LHC como *Home Office*
+-------------------------------------------------
+
+O **LHC** incentiva que seus associados frequentem o espaço para trabalho
+remoto, desde que se respeite as seguintes regras:
+
+1.  É permanentemente proibido usar o LHC para reuniões de negócios que envolva
+    conversas com clientes e/ou potenciais clientes, bem como com fornecedores.
+2.  Jamais utilize o endereço da casa onde está instalado o **LHC** para suas
+    correspondências pessoais ou de sua empresa. Sujeito a expulsão de quem
+    descumprir essa determinação.
+ 
 Moderação na lista pública do LHC 
 ---------------------------------
 
-A moderação de mensagens na lista pública do **LHC** deve seguir as
+A moderação de mensagens em ambientes públicos virtuais do **LHC** deve seguir as
 seguintes regras:
 
 1.  As primeiras mensagens de novos participantes na lista pública serão
