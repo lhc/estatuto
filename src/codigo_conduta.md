@@ -54,7 +54,7 @@ Comportamento Esperado
     discriminatórios ou abusivos.
 -   Esteja atento ao seu ambiente e às demais pessoas presentes.
     Notifique uma pessoa associada ao **LHC** se você notar uma situação
-    perigosa, alguém sofrendo contrangimento, ou violações deste Código
+    perigosa, alguém sofrendo constrangimento, ou violações deste Código
     de Conduta, mesmo que lhe pareçam pouco importantes.
 -   Espaços de eventos comunitários podem ser compartilhados com membros
     do público; por gentileza, seja respeitoso com todos as pessoas que
@@ -83,7 +83,7 @@ Consequências do comportamento inaceitável
 
 Não serão tolerados comportamentos inaceitáveis de qualquer pessoa,
 incluindo aquelas associadas ao **LHC**. Espera-se que as pessoas
-interrompam imediatamente qualquer comportamento inaceceitável assim que
+interrompam imediatamente qualquer comportamento inaceitável assim que
 lhes for solicitado.
 
 Se uma pessoa tiver um comportamento inaceitável, os associados podem
