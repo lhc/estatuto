@@ -84,14 +84,15 @@ Benefícios adicionais dos associados
     próprios no depósito do **LHC**, em caixas devidamente
     identificadas no espaço reservado para este fim. O **LHC** tem o
     direito de recusar esse benefício caso o associado deseje guardar
-    itens que possam representar risco aos frequentadores.
+    itens que possam representar risco aos frequentadores ou utilizar o recurso
+    como depósito, oculpando um muito espaço e atrapalhando a organização do Hackerpsace.
 
 Desvios de conduta
 ------------------
 
 Em situações em que o Conselho detecte comportamentos de associados que sejam
 em desacordo com os princípios do **LHC**, nosso estatuto, código de
-conduta ou regimento interno, ou ações que causem incomodo reconhecido
+conduta ou regimento interno, ou ações que causem incômodo reconhecido
 pelos associados, o Conselho pode decidir por ações com objetivo de orientar,
 educar e, em último caso, punir tal comportamento.
 
@@ -101,7 +102,7 @@ Reunião do Conselho
 1.  O Conselho reunir-se-á ordinariamente na terceira
     terça-feira de cada mês, às 19h30, na sede do **LHC**.
 2.  O teto obrigatório da reunião do Conselho será 23h30. Em casos excepcionais,
-    como assuntos urgentes ou polêmicos, excessões poderão ser abertas
+    como assuntos urgentes ou polêmicos, exceções poderão ser abertas
     mediante a garantia de transporte (carona) para todos os presentes.
 3.  Será permitida a participação remota dos membros do **LHC** através
     meios de comunicação online, preferencialmente com vídeo. A
@@ -162,20 +163,20 @@ caso-a-caso.
 ### Regras gerais
 
 1.  Qualquer oferta de doação deve ser comunicada previamente na lista,
-    e somente será aceita se um sócio se responsabilizar por
+    e somente será aceita se um sócio ser responsável por
     dar um fim útil ao item a ser doado.
 2.  O processo de aceitação de doações ou prêmios em forma de Software
     será prerrogativa do Diretor Executivo, obedecendo aos seguintes
     critérios:
     1.  Utilidade imediata ou potencial do software;
     2.  Em caso de existir opção de software livre/aberto o **LHC** irá
-        incentivar e dar preferência ao uso dessa, através de oficinas,
+        incentivar e dar preferência ao uso desta, através de oficinas,
         projetos e concursos;
     3.  Mesmo não existindo opção livre/aberta, o **LHC** incentivará a
         criação de grupos para trabalhar em suprir essa lacuna.
 
 As regras acima valem exceto quando se tratar de coisas de uso geral e
-pequeno porte (ex: peças, leds, fios, etc) ou itens descriminados como
+pequeno porte (ex: peças, leds, fios, etc) ou itens discriminados como
 de doações.
 
 Política de Descartes
@@ -194,7 +195,7 @@ Aviso sobre uso da casa do LHC como *Home Office*
 O **LHC** incentiva que seus associados frequentem o espaço para trabalho
 remoto, desde que se respeite as seguintes regras:
 
-1.  É permanentemente proibido usar o LHC para reuniões de negócios que envolva
+1.  É terminantemente proibido usar o LHC para reuniões de negócios que envolva
     conversas com clientes e/ou potenciais clientes, bem como com fornecedores.
 2.  Jamais utilize o endereço da casa onde está instalado o **LHC** para suas
     correspondências pessoais ou de sua empresa. Sujeito a expulsão de quem
@@ -218,8 +219,8 @@ Regras de uso dos grupos de comunicação instantânea
 
 -   Será considerado um grupo oficial do **LHC** em aplicativos de
     comunicação instantânea (ex.: Whatsapp, Telegram) os grupos que demonstrem
-    vinculo institucional através de referência ao nome e/ou logotipo do
-    **LHC**;
+    vínculo institucional através de referência ao nome e/ou logotipo do
+    **LHC**, com links ao site oficial do Hackerspace;
 -   Os grupos em meios de comunicação instantânea devem ser
     administrados por associados do **LHC**;
 -   Os grupos devem ter moderação, e esta monitoração será regida pelos
