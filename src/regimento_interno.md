@@ -195,9 +195,7 @@ Aviso sobre uso da casa do LHC como *Home Office*
 O **LHC** incentiva que seus associados frequentem o espaço para trabalho
 remoto, desde que se respeite as seguintes regras:
 
-1.  É terminantemente proibido usar o LHC para reuniões de negócios que envolva
-    conversas com clientes e/ou potenciais clientes, bem como com fornecedores.
-2.  Jamais utilize o endereço da casa onde está instalado o **LHC** para suas
+1.  Jamais utilize o endereço da casa onde está instalado o **LHC** para suas
     correspondências pessoais ou de sua empresa. Sujeito a expulsão de quem
     descumprir essa determinação.
  
