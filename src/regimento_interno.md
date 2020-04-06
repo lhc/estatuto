@@ -73,7 +73,7 @@ Mensalidades Sociais (Starving Hacker)
     3. Trazer documentos que comprovem sua necessidade
     4. Ter seu nome aprovado, por votação simples, pelos presentes na reunião.
 3. O recém ingressante no programa de mensalidades sociais gozará do desconto por
-   1 ano, cabendo ao mesmo solicitar participação no programa para o ano
+   1 semestre, cabendo ao mesmo solicitar participação no programa para o semestre
    seguinte caso tenha necessidade, repetindo os passos no item 2.
 
 Benefícios adicionais dos associados
