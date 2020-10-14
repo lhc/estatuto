@@ -19,18 +19,21 @@ longo de qualquer mandato.
 Dos Associados
 ==============
 
-Admissão de novos membros
--------------------------
+Admissão de novas associadas e novos associados
+-----------------------------------------------
 
-1.  O interessado em associar-se ao **LHC** deverá:
-    1.  apresentar-se na lista de discussão ou pessoalmente, fornecer informações 
-        sobre quem é, o que faz, etc;
-    2.  encontrar um associado que será seu **mentor**, que deverá
-        auxiliá-lo em sua integração;
-2.  O **LHC** terá até 3 meses para ratificar a associação do interessado
-    em associar-se que tenha cumprido o passo 1 da admissão aqui descrita.
-3.  O interessado em associar-se já deverá começar a contribuir com as
-    mensalidades.
+1. Para associar-se ao **LHC** a pessoa interessada deverá:
+    1.  encontrar (ou ser encontrado por) uma pessoa associada **mentora** que
+        deverá auxiliar em sua integração;
+    1.  apresentar-se em uma reunião do Conselho;
+    1.  participar ativamente das atividades presenciais e/ou virtuais do **LHC**
+        para que a comunidade possa conhece-la melhor;
+    1.  a pessoa **mentora** deverá colocar em pauta em uma reunião do Conselho
+        subsequente o pedido de aprovação
+1. Após a aprovação de associação pelo Conselho, a nova pessoa associada deverá
+   iniciar em até 15 dias o pagamento das Contribuições Associativas. Caso o
+   pagamento não seja efetuado dentro desse período, o pedido de associação será
+   automaticamente cancelado.
 
 Contribuições associativas
 --------------------------
