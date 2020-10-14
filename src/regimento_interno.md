@@ -19,8 +19,8 @@ longo de qualquer mandato.
 Dos Associados
 ==============
 
-Admissão de novas associadas e novos associados
------------------------------------------------
+Solicitação de associação
+-------------------------
 
 1. Para associar-se ao **LHC** a pessoa interessada deverá:
     1.  encontrar (ou ser encontrado por) uma pessoa associada **mentora** que
