@@ -3,7 +3,7 @@ LABORATÓRIO HACKER DE CAMPINAS
 
 Este Código de Conduta foi aprovado em
 [Assembleia de Fundação](https://lhc.net.br/wiki/assembleia_fundacao) 
-realizada no dia 01 de Janeiro de 1900. É mantido de forma *open-source*,
+realizada no dia 28 de Julho de 2019. É mantido de forma *open-source*,
 junto com o [Regimento Interno](https://lhc.net.br/wiki/regimento_interno), 
 atas de reuniões e demais documentos relacionados, no 
 [Github](https://github.com/lhc/estatuto/) do **LHC**.
