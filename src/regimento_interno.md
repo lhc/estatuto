@@ -25,15 +25,24 @@ Solicitação de associação
 1. Para associar-se ao **LHC** a pessoa interessada deverá:
     1.  encontrar (ou ser encontrado por) uma pessoa associada **mentora** que
         deverá auxiliar em sua integração;
-    1.  apresentar-se em uma reunião do Conselho;
     1.  participar ativamente das atividades presenciais e/ou virtuais do **LHC**
         para que a comunidade possa conhece-la melhor;
+    1.  iniciar o pagamento da Contribuição Associativa seguindo as instruções
+        indicadas na seção [Mensalidades](https://lhc.net.br/w/index.php?title=Associe-se);
     1.  a pessoa **mentora** deverá colocar em pauta em uma reunião do Conselho
-        subsequente o pedido de aprovação
-1. Após a aprovação de associação pelo Conselho, a nova pessoa associada deverá
-   iniciar em até 15 dias o pagamento das Contribuições Associativas. Caso o
-   pagamento não seja efetuado dentro desse período, o pedido de associação será
-   automaticamente cancelado.
+        subsequente o pedido de aprovação de associação;
+    1.  apresentar-se em uma reunião do Conselho;
+    1.  ter sua associação aprovada pelo Conselho;
+
+1. Após a aprovação de associação pelo Conselho, a nova pessoa associada poderá
+   solicitar sua cópia da chave do **LHC** após o pagamento de no mínimo três
+   Contribuições Associativas em sequência. Os pagamentos realizados antes da
+   reunião de aprovação no Conselho serão considerado nessa contagem de tempo.
+
+1. Caso a solicitação de associação não seja aprovada pelo Conselho, os valores 
+   da Contribuição Associativa já pagos pela pessoa interessada poderão ser 
+   restituídos em sua totalidade se houver solicitação até 15 dias corridos 
+   depois da reunião de Conselho referente a reprovação de associação.
 
 Contribuições associativas
 --------------------------
