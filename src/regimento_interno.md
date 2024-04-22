@@ -35,6 +35,22 @@ Solicitação de associação
    pagamento não seja efetuado dentro desse período, o pedido de associação será
    automaticamente cancelado.
 
+Solicitação de desligamento da associação
+-----------------------------------------
+
+1. Segundo o [Artigo 13 do Estatuto](Estatuto#Artigo_13) uma pessoa
+   Associada pode solicitar o desligamento do **LHC** a qualquer
+   momento protocolando junto ao Conselho o seu pedido.
+1. A partir da data de solicitação, a pessoa associada terá um prazo de
+   30 (trinta) dias corridos para a retirada de quaisquer pertences que
+   não tenham sido doados ao **LHC** e sejam de uso particular.
+   1. Após esse período, os pertences deixados no espaço físico do **LHC**
+      serão considerados como doação e integrarão o patrimônio da associação.
+1. A partir da data de solicitação, a pessoa associada terá um prazo de
+   30 (trinta) dias corridos para a devolução de qualquer chave de acesso
+   ao espaço físico do **LHC**. A devolução pode ser feita a qualquer pessoa
+   associada **titular** ou para alguém definido pelo Conselho.
+
 Contribuições associativas
 --------------------------
 
