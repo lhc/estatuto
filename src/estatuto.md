@@ -4,6 +4,7 @@ LABORATÓRIO HACKER DE CAMPINAS
 \vspace{4 mm}
 
 Aprovado em Assembleia de Fundação realizada no dia 28 de julho de 2019.
+Alterado na Assembleia Geral Ordinária no dia 13 de abril de 2024.
 
 \vspace{8 mm}
 
@@ -25,8 +26,7 @@ Artigo 2º
 ---------
 
 O **LHC** tem sede e foro em Campinas, Estado de São Paulo, à
-Rua Sales de Oliveira, 1800, Vila Industrial - Campinas-SP.
-CEP 13035-500
+Rua Araribóia, 121, Ponte Preta, Campinas-SP, CEP 13041-350.
 
 Artigo 3º
 ---------
