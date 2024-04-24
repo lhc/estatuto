@@ -38,10 +38,10 @@ Solicitação de associação
 Contribuições associativas
 --------------------------
 
-1.  Veja os valores atualizados em [Mensalidades](https://lhc.net.br/wiki/Doe)
-2.  Anuidade: Pago à vista. Válida por um ano da data de pagamento. O
+1.  Veja os valores atualizados em [Mensalidades](https://lhc.net.br/w/index.php?title=Associe-se)
+1.  Anuidade: Pago à vista. Válida por um ano da data de pagamento. O
     desconto só é concedido quando a anuidade for paga em fevereiro.
-3.  Mensalidade: Pagamento via Paypal, depósito ou dinheiro.
+1.  Mensalidade: Pagamento via Paypal, depósito ou dinheiro.
 
 Não Pagamento das contribuições associativas
 --------------------------------------------
