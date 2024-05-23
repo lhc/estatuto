@@ -13,6 +13,7 @@ Além do Estatuto da Associação, estão também
 
 - Código de conduta
 - Regimento Interno
+- [Atas das reuniões](https://github.com/lhc/estatuto/tree/master/atas-das-reunioes)
 
 Para contribuir, abra um request enviando suas 
 modificações. Apenas se atente a duas regras:
