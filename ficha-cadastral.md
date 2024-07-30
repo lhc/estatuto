@@ -36,7 +36,7 @@ Campinas-SP
 
 **Chave PIX:** batman@lhc.net.br
 
-### Conta Secondária
+### Conta Secundária
 
 **Banco:** Cora Sociedade de Crédito Direto S.A. - 403
 
