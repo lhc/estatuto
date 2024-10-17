@@ -12,15 +12,11 @@
 
 **Endereço:**
 
-**ESSE NÃO É O ENDEREÇO DA NOSSA SEDE ATUAL, PORÉM É O QUE ESTÁ REGISTRADO ATUALMENTE NA RECEITA FEDERAL**
+Rua Arariboia, 121
 
-**UTILIZE ESSE ENDEREÇO PARA EMISSÃO DE NOTAS FISCAIS PARA O LHC**
+Ponte Preta
 
-Rua Doutor Salles Oliveira, 1800
-
-Vila Industrial
-
-13035-500
+13041-350 
 
 Campinas-SP
 
