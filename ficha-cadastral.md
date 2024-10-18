@@ -26,7 +26,7 @@ Campinas-SP
 
 **Banco:** Banco Bradesco S.A. - 237
 
-**Agência:** 2118
+**Agência:** 2118-0 (o dígito é opcional na maioria dos lugares)
 
 **C/C:** 479984-4
 
