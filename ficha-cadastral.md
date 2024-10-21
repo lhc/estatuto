@@ -22,6 +22,10 @@ Campinas-SP
 
 ## Dados Bancários
 
+### Recebimento PIX
+
+Para recebimentos via PIX, utilizar **PREFERENCIALMENTE** a chave: batman@lhc.net.br
+
 ### Conta Principal
 
 **Banco:** Banco Bradesco S.A. - 237
@@ -30,7 +34,7 @@ Campinas-SP
 
 **C/C:** 479984-4
 
-**Chave PIX:** batman@lhc.net.br
+**Chave PIX:** bradesco@lhc.net.br
 
 ### Conta Secundária
 
@@ -39,3 +43,7 @@ Campinas-SP
 **Agência:** 0001
 
 **C/C:** 4065694-8
+
+**Chave PIX 1:** batman@lhc.net.br
+
+**Chave PIX 2:** cora@lhc.net.br
