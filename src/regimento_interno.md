@@ -24,22 +24,21 @@ Solicitação de associação
 
 1. Para associar-se ao **LHC** a pessoa interessada deverá:
 
-    1.  encontrar (ou ser encontrada por) uma pessoa já associada **mentora** que
-        deverá auxiliar em sua integração;
-    1.  participar ativamente das atividades presenciais e/ou virtuais do **LHC**
-        para que a comunidade possa conhece-la melhor;
-    1.  a pessoa **mentora** deverá colocar em pauta em uma reunião do Conselho
-        subsequente o pedido de aprovação de associação;
-    1.  apresentar-se em uma reunião do Conselho para solicitar a aprovação do pedido
-        de associação pelo Conselho;
+    1.  encontrar (ou ser encontrada por) uma pessoa já associada que ficará
+        responsável por auxiliá-la na integração com a comunidade do hackerspace;
+    1.  participar ativamente das atividades presenciais e/ou virtuais do **LHC**,
+        para que a comunidade possa conhecê-la melhor;
+    1.  apresentar-se em uma reunião do Conselho solicitando a aprovação do seu
+        pedido de associação - a pessoa responsável por auxiliá-la deverá incluir
+        esse tópico na pauta da reunião;
     1.  iniciar o pagamento da **Contribuição Associativa** seguindo as instruções
-        indicadas na seção [Mensalidades](https://lhc.net.br/w/index.php?title=Associe-se);
+        indicadas na seção [Mensalidades](https://lhc.net.br/w/index.php?title=Associe-se#Mensalidades) em até 30 dias após a aprovação na reunião de Conselho;
     1.  efetuar o seu cadastro no [The Book](https://thebook.lhc.net.br/members/new) -
         sistema de controle administrativo do **LHC**.
 
 1. Após a aprovação de associação pelo Conselho, a nova pessoa associada poderá
-   solicitar sua cópia da chave do **LHC** após o pagamento de no mínimo **três
-   Contribuições Associativas em sequência**.
+   solicitar sua cópia da chave do **LHC** após três meses de associação, mantendo
+   suas **Contribuições Associativas em dia**.
 
 Contribuições associativas
 --------------------------
