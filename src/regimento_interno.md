@@ -16,32 +16,38 @@ longo de qualquer mandato.
 
 ---
 
-Dos Associados
-==============
+Das Pessoas Associadas
+======================
 
 Solicitação de associação
 -------------------------
 
 1. Para associar-se ao **LHC** a pessoa interessada deverá:
-    1.  encontrar (ou ser encontrado por) uma pessoa associada **mentora** que
-        deverá auxiliar em sua integração;
-    1.  apresentar-se em uma reunião do Conselho;
-    1.  participar ativamente das atividades presenciais e/ou virtuais do **LHC**
-        para que a comunidade possa conhece-la melhor;
-    1.  a pessoa **mentora** deverá colocar em pauta em uma reunião do Conselho
-        subsequente o pedido de aprovação
-1. Após a aprovação de associação pelo Conselho, a nova pessoa associada deverá
-   iniciar em até 15 dias o pagamento das Contribuições Associativas. Caso o
-   pagamento não seja efetuado dentro desse período, o pedido de associação será
-   automaticamente cancelado.
+
+    1.  encontrar (ou ser encontrada por) uma pessoa já associada que ficará
+        responsável por auxiliá-la na integração com a comunidade do hackerspace;
+    1.  participar ativamente das atividades presenciais e/ou virtuais do **LHC**,
+        para que a comunidade possa conhecê-la melhor;
+    1.  apresentar-se em uma reunião do Conselho solicitando a aprovação do seu
+        pedido de associação - a pessoa responsável por auxiliá-la deverá incluir
+        esse tópico na pauta da reunião;
+    1.  iniciar o pagamento da **Contribuição Associativa** seguindo as instruções
+        indicadas na seção [Mensalidades](https://lhc.net.br/w/index.php?title=Associe-se#Mensalidades) em até 30 dias após a aprovação na reunião de Conselho;
+    1.  efetuar o seu cadastro no [The Book](https://thebook.lhc.net.br/members/new) -
+        sistema de controle administrativo do **LHC**.
+
+1. Após a aprovação de associação pelo Conselho, a nova pessoa associada poderá
+   solicitar sua cópia da chave do **LHC** após três meses de associação, mantendo
+   suas **Contribuições Associativas em dia**.
 
 Contribuições associativas
 --------------------------
 
-1.  Veja os valores atualizados em [Mensalidades](https://lhc.net.br/wiki/Doe)
-2.  Anuidade: Pago à vista. Válida por um ano da data de pagamento. O
-    desconto só é concedido quando a anuidade for paga em fevereiro.
-3.  Mensalidade: Pagamento via Paypal, depósito ou dinheiro.
+1.  Veja os valores atualizados em
+    [Mensalidades](https://lhc.net.br/w/index.php?title=Associe-se);
+1.  Anuidade: Pagamento à vista. Válida por um ano a partir da data de
+    pagamento;
+1.  Mensalidade: Pagamento via Paypal (**preferencialmente**) ou Pix recorrente.
 
 Não Pagamento das contribuições associativas
 --------------------------------------------
@@ -88,7 +94,7 @@ Benefícios adicionais dos associados
     identificadas no espaço reservado para este fim. O **LHC** tem o
     direito de recusar esse benefício caso o associado deseje guardar
     itens que possam representar risco aos frequentadores ou utilizar o recurso
-    como depósito, oculpando um muito espaço e atrapalhando a organização do Hackerpsace.
+    como depósito, ocupando muito espaço e atrapalhando a organização do Hackerpsace.
 
 Desvios de conduta
 ------------------
