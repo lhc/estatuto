@@ -1,9 +1,9 @@
 LABORATÓRIO HACKER DE CAMPINAS 
 ==============================
 
-# Contribuindo para o LHC - Laboratório Hacker de Campinas
+## Contribuindo para o LHC - Laboratório Hacker de Campinas
 
-Estamos entusiasmados com seu interesse em contribuir para o LHC! Existem várias maneiras de você ajudar a tornar o nosso hackerspace ainda melhor. Aqui estão algumas diretrizes para contribuir com nossos projetos.
+Estamos entusiasmados com seu interesse em contribuir para o **LHC**! Existem várias maneiras de você ajudar a tornar o nosso hackerspace ainda melhor. Aqui estão algumas diretrizes para contribuir com nossos projetos.
 
 ## Como Contribuir
 
@@ -36,7 +36,7 @@ Para manter um ambiente de contribuição saudável e produtivo, por favor, siga
 
 Se você tiver alguma dúvida ou precisar de ajuda, fique à vontade para abrir uma issue ou entrar em contato conosco em nosso [grupo do Telegram](https://t.me/lhc_campinas).
 
-Agradecemos por suas contribuições e por ajudar a tornar o LHC um lugar melhor para todos!
+Agradecemos por suas contribuições e por ajudar a tornar o **LHC** um lugar melhor para todos!
 
 ---
 
