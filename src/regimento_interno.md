@@ -108,18 +108,18 @@ educar e, em último caso, punir tal comportamento.
 Reunião do Conselho
 -------------------
 
-1.  O Conselho reunir-se-á ordinariamente na terceira
-    terça-feira de cada mês, às 19h30, na sede do **LHC**.
-2.  O teto obrigatório da reunião do Conselho será 23h30. Em casos excepcionais,
+1.  O Conselho reunir-se-á ordinariamente preferencialmente na segunda
+    segunda-feira de cada mês, às 19h30, na sede do **LHC**.
+1.  O teto obrigatório da reunião do Conselho será 23h30. Em casos excepcionais,
     como assuntos urgentes ou polêmicos, exceções poderão ser abertas
     mediante a garantia de transporte (carona) para todos os presentes.
-3.  Será permitida a participação remota dos membros do **LHC** através
+1.  Será permitida a participação remota dos membros do **LHC** através
     meios de comunicação online, preferencialmente com vídeo. A
     participação deverá ser projetada na parede da sala, para todos
     acompanharem.
-4.  Justificativas de ausência devem ser registradas na pauta (rascunho
+1.  Justificativas de ausência devem ser registradas na pauta (rascunho
     da ata), indicando o motivo.
-6.  As atas das reuniões do Conselho devem ser bloqueadas após o fim da
+1.  As atas das reuniões do Conselho devem ser bloqueadas após o fim da
     respectiva reunião e qualquer alteração deve ser discutida na Lista
     de Associados ou na reunião seguinte.
 
